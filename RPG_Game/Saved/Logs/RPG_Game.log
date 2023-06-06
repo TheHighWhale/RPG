@@ -989,3 +989,1714 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.06-15.08.31:109][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.06.06-15.08.31:194][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.06.06-15.10.19:160][334]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.398 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.06-15.43.52:119][426]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.06-15.43.52:127][426]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.06-15.44.01:831][616]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.06-15.44.01:841][616]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.06-15.44.01:852][617]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.06-15.44.03:926][677]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.06.06-15.44.03:927][677]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.06-15.44.43:277][927]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\chris\Downloads\Walk_Stop.FBX)
+[2023.06.06-15.44.43:346][927]LogFbx: Loading FBX Scene from C:\Users\chris\Downloads\Walk_Stop.FBX
+[2023.06.06-15.44.43:388][927]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.06-15.44.54:974][927]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.06-15.45.06:635][927]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(0) root
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(1) pelvis
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(2) spine_01
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(3) spine_02
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(4) spine_03
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(5) spine_04
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(6) spine_05
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(7) neck_01
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(8) neck_02
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(9) head
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(10) clavicle_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(11) upperarm_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(12) lowerarm_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(15) hand_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(16) middle_metacarpal_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(17) middle_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(18) middle_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(19) middle_03_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(20) pinky_metacarpal_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(21) pinky_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(22) pinky_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(23) pinky_03_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(24) ring_metacarpal_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(25) ring_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(26) ring_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(27) ring_03_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(28) thumb_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(29) thumb_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(30) thumb_03_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(31) index_metacarpal_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(32) index_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(33) index_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(34) index_03_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(35) upperarm_twist_01_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(36) upperarm_twist_02_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(37) clavicle_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(38) upperarm_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(39) lowerarm_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(40) lowerarm_twist_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(41) lowerarm_twist_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(42) hand_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(43) middle_metacarpal_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(44) middle_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(45) middle_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(46) middle_03_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(47) pinky_metacarpal_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(48) pinky_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(49) pinky_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(50) pinky_03_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(51) ring_metacarpal_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(52) ring_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(53) ring_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(54) ring_03_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(55) thumb_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(56) thumb_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(57) thumb_03_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(58) index_metacarpal_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(59) index_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(60) index_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(61) index_03_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(62) upperarm_twist_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(63) upperarm_twist_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(64) thigh_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(65) calf_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(66) foot_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(67) ball_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(68) calf_twist_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(69) calf_twist_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(70) thigh_twist_01_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(71) thigh_twist_02_r
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(72) thigh_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(73) calf_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(74) foot_l
+[2023.06.06-15.45.06:708][927]LogFbx: SortedLinks :(75) ball_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(76) calf_twist_02_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(77) calf_twist_01_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(78) thigh_twist_01_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(79) thigh_twist_02_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(80) ik_foot_root
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(81) ik_foot_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(82) ik_foot_r
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(83) ik_hand_root
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(84) ik_hand_gun
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(85) ik_hand_l
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(86) ik_hand_r
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(87) interaction
+[2023.06.06-15.45.06:709][927]LogFbx: SortedLinks :(88) center_of_mass
+[2023.06.06-15.45.06:710][927]LogFbx: Parsing AnimStack Unreal Take
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : MoveData_Speed
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(MoveData_Speed) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : base_pose
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(base_pose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_l_back_50
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_l_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_l_back_120
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_l_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_l_back_90
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_l_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_l_back_150
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_l_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_r_back_50
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_r_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_r_back_120
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_r_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_r_back_90
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_r_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : calf_r_back_150
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(calf_r_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : clavicle_l_fwd_30
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(clavicle_l_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : clavicle_l_down_20
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(clavicle_l_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : clavicle_l_back_30
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(clavicle_l_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName : clavicle_l_up_40
+[2023.06.06-15.45.06:714][927]LogFbx: CurveName(clavicle_l_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_fwd_30
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_down_20
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_back_30
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_up_40
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_back_310
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_back_310) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : clavicle_r_up_401
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(clavicle_r_up_401) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : foot_l_down_60
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(foot_l_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : foot_l_up_35
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(foot_l_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : foot_r_up_35
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(foot_r_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : foot_r_down_60
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(foot_r_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_l_down_90
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_l_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_l_up_20
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_l_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_l_up_90
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_l_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_r_up_90
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_r_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_r_down_90
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_r_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : hand_r_up_20
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(hand_r_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_0
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_1
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_2
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_2) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_3
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_3) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_4
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_4) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_5
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_5) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_6
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_6) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_7
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_7) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : Pose_8
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(Pose_8) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_in_110
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_in_35
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_out_35
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_in_50
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_in_75
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName : lowerarm_l_in_10
+[2023.06.06-15.45.06:715][927]LogFbx: CurveName(lowerarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_l_out_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_l_in_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_l_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_out_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_out_35
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_75
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_50
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_35
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : lowerarm_r_in_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(lowerarm_r_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_bck_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_fwd_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_in_45_out_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_fwd_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_bck_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_bck_50
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_out_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_out_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_fwd_45
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_in_50
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_fwd_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_out_55
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_l_out_85
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_fwd_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_out_55
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_fwd_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_fwd_45
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_bck_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_out_85
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_in_50
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_out_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_out_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_bck_50
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_bck_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_in_45_out_90
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : thigh_r_fwd_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(thigh_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_back_45
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out_55
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out110_twist_in_70
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out_85
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_fwd_110
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_in_10
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out110_twist_out_70
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out_twist_a
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_fwd_15
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName : upperarm_l_out_15
+[2023.06.06-15.45.06:716][927]LogFbx: CurveName(upperarm_l_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_l_back_10
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_l_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_l_out110
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_l_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_l_fwd_twist_in_a
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_l_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_l_fwd_90
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out_15
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_fwd_15
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out_twist_a
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_fwd_90
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out110
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_back_10
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out_85
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_in_10
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_back_45
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_out_55
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_fwd_twist_in_a
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : upperarm_r_fwd_110
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName(upperarm_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:718][927]LogFbx: CurveName : Distance
+[2023.06.06-15.45.06:719][927]LogFbx: CurveName : RemainingTurnYaw
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(RemainingTurnYaw) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : TurnYawWeight
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(TurnYawWeight) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : GroundDistance
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(GroundDistance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : DisableLHandIK
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(DisableLHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : ScaleDownWeaponR
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(ScaleDownWeaponR) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : DisableLegIK
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(DisableLegIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : blendParent1
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : DisableRHandIK
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(DisableRHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : DisableLeftHandPoseOverride
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(DisableLeftHandPoseOverride) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : applyHipfireOverridePose
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(applyHipfireOverridePose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : DisableHandIKRetargeting
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(DisableHandIKRetargeting) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : lowerarm_r_in_80
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(lowerarm_r_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : lowerarm_l_in_80
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(lowerarm_l_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : calf_r_back_130
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(calf_r_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : calf_l_back_130
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(calf_l_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName : Pose_9
+[2023.06.06-15.45.06:720][927]LogFbx: CurveName(Pose_9) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:856][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Walk_Stop.Walk_Stop
+[2023.06.06-15.45.06:856][927]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\chris\Downloads\Idle_Break.FBX)
+[2023.06.06-15.45.06:873][927]LogFbx: Loading FBX Scene from C:\Users\chris\Downloads\Idle_Break.FBX
+[2023.06.06-15.45.06:956][927]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(0) root
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(1) pelvis
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(2) spine_01
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(3) spine_02
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(4) spine_03
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(5) spine_04
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(6) spine_05
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(7) neck_01
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(8) neck_02
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(9) head
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(10) clavicle_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(11) upperarm_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(12) lowerarm_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(20) hand_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(21) wrist_inner_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(22) wrist_outer_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(24) index_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(25) index_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(26) index_03_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(28) middle_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(29) middle_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(30) middle_03_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(31) thumb_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(32) thumb_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(33) thumb_03_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(35) pinky_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(36) pinky_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(37) pinky_03_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(39) ring_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(40) ring_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(41) ring_03_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(42) weapon_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(52) upperarm_in_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(53) upperarm_out_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(54) clavicle_out_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2023.06.06-15.45.06:959][927]LogFbx: SortedLinks :(56) clavicle_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(57) upperarm_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(58) lowerarm_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(66) hand_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(67) wrist_inner_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(68) wrist_outer_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(70) pinky_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(71) pinky_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(72) pinky_03_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(74) ring_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(75) ring_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(76) ring_03_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(78) middle_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(79) middle_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(80) middle_03_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(82) index_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(83) index_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(84) index_03_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(85) thumb_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(86) thumb_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(87) thumb_03_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(88) weapon_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(97) upperarm_in_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(99) upperarm_out_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(100) clavicle_out_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(106) thigh_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(107) calf_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(108) foot_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(109) ball_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(111) ankle_bck_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(117) calf_knee_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(124) thigh_bck_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(125) thigh_out_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(126) thigh_in_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(129) thigh_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(130) calf_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(131) foot_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(132) ball_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(133) ankle_bck_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(140) calf_knee_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(146) thigh_bck_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2023.06.06-15.45.06:960][927]LogFbx: SortedLinks :(148) thigh_out_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(150) thigh_in_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(152) ik_foot_root
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(153) ik_foot_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(154) ik_foot_r
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(155) ik_hand_root
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(156) ik_hand_gun
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(157) ik_hand_l
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(158) ik_hand_r
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(159) interaction
+[2023.06.06-15.45.06:961][927]LogFbx: SortedLinks :(160) center_of_mass
+[2023.06.06-15.45.06:963][927]LogFbx: Parsing AnimStack Unreal Take
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : MoveData_Speed
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(MoveData_Speed) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : base_pose
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(base_pose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_l_back_50
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_l_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_l_back_120
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_l_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_l_back_90
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_l_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_l_back_150
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_l_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_r_back_50
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_r_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_r_back_120
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_r_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_r_back_90
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_r_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : calf_r_back_150
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(calf_r_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_l_fwd_30
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_l_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_l_down_20
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_l_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_l_back_30
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_l_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_l_up_40
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_l_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_fwd_30
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_down_20
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_back_30
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_up_40
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_back_310
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_back_310) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : clavicle_r_up_401
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(clavicle_r_up_401) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : foot_l_down_60
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(foot_l_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName : foot_l_up_35
+[2023.06.06-15.45.06:965][927]LogFbx: CurveName(foot_l_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : foot_r_up_35
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(foot_r_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : foot_r_down_60
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(foot_r_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_l_down_90
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_l_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_l_up_20
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_l_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_l_up_90
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_l_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_r_up_90
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_r_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_r_down_90
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_r_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : hand_r_up_20
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(hand_r_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_0
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_1
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_2
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_2) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_3
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_3) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_4
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_4) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_5
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_5) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_6
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_6) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_7
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_7) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : Pose_8
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(Pose_8) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_110
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_35
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_out_35
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_50
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_75
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_10
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_out_10
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_l_in_90
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_l_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_r_in_10
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_r_out_10
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_r_out_35
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_r_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_r_in_75
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_r_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName : lowerarm_r_in_50
+[2023.06.06-15.45.06:966][927]LogFbx: CurveName(lowerarm_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : lowerarm_r_in_110
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(lowerarm_r_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : lowerarm_r_in_35
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(lowerarm_r_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : lowerarm_r_in_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(lowerarm_r_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_bck_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_fwd_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_in_45_out_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_fwd_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_bck_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_bck_50
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_out_110
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_out_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_fwd_45
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_in_50
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_fwd_110
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_out_55
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_l_out_85
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_fwd_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_out_55
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_fwd_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_fwd_45
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_bck_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_out_85
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_in_50
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_out_10
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_out_110
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_bck_50
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_bck_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_in_45_out_90
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : thigh_r_fwd_110
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(thigh_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : upperarm_l_back_45
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(upperarm_l_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : upperarm_l_out_55
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(upperarm_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : upperarm_l_out110_twist_in_70
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(upperarm_l_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName : upperarm_l_out_85
+[2023.06.06-15.45.06:967][927]LogFbx: CurveName(upperarm_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_fwd_110
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_in_10
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_out110_twist_out_70
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_out_twist_a
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_fwd_15
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_out_15
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_back_10
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_out110
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_fwd_twist_in_a
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_l_fwd_90
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out_15
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_fwd_15
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out_twist_a
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_fwd_90
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out110
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_back_10
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out_85
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_in_10
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_back_45
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_out_55
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_fwd_twist_in_a
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : upperarm_r_fwd_110
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(upperarm_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : Distance
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(Distance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : RemainingTurnYaw
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(RemainingTurnYaw) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : TurnYawWeight
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(TurnYawWeight) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : GroundDistance
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(GroundDistance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : DisableLHandIK
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(DisableLHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : ScaleDownWeaponR
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(ScaleDownWeaponR) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : DisableLegIK
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(DisableLegIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : blendParent1
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : DisableRHandIK
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(DisableRHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName : DisableLeftHandPoseOverride
+[2023.06.06-15.45.06:968][927]LogFbx: CurveName(DisableLeftHandPoseOverride) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : applyHipfireOverridePose
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(applyHipfireOverridePose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : DisableHandIKRetargeting
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(DisableHandIKRetargeting) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : lowerarm_r_in_80
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(lowerarm_r_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : lowerarm_l_in_80
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(lowerarm_l_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : calf_r_back_130
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(calf_r_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : calf_l_back_130
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(calf_l_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : Pose_9
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(Pose_9) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out_15 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_fwd_15 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_fwd_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out_twist_a 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out_twist_a ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out110 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : base_pose 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(base_pose ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_back_10 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_back_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out_85 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out_85 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_in_10 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_in_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_back_45 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_back_45 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_fwd_110 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_fwd_110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : lowerarm_r_in_35 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(lowerarm_r_in_35 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_out_55 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_out_55 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName : upperarm_r_fwd_90 
+[2023.06.06-15.45.06:969][927]LogFbx: CurveName(upperarm_r_fwd_90 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.06:970][927]LogFbx: PropertyName : TCHour
+[2023.06.06-15.45.06:970][927]LogFbx: PropertyName : TCMinute
+[2023.06.06-15.45.06:970][927]LogFbx: PropertyName : TCSecond
+[2023.06.06-15.45.06:970][927]LogFbx: PropertyName : TCFrame
+[2023.06.06-15.45.09:144][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Idle_Break.Idle_Break
+[2023.06.06-15.45.09:144][927]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\chris\Downloads\Crouh_Walk.FBX)
+[2023.06.06-15.45.09:163][927]LogFbx: Loading FBX Scene from C:\Users\chris\Downloads\Crouh_Walk.FBX
+[2023.06.06-15.45.09:269][927]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(0) root
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(1) pelvis
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(2) spine_01
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(3) spine_02
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(4) spine_03
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(5) spine_04
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(6) spine_05
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(7) neck_01
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(8) neck_02
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(9) head
+[2023.06.06-15.45.09:275][927]LogFbx: SortedLinks :(10) clavicle_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(11) upperarm_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(12) lowerarm_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(20) hand_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(21) wrist_inner_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(22) wrist_outer_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(24) index_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(25) index_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(26) index_03_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(28) middle_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(29) middle_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(30) middle_03_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(31) thumb_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(32) thumb_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(33) thumb_03_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(35) pinky_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(36) pinky_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(37) pinky_03_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(39) ring_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(40) ring_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(41) ring_03_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(42) weapon_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(52) upperarm_in_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(53) upperarm_out_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(54) clavicle_out_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(56) clavicle_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(57) upperarm_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(58) lowerarm_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(66) hand_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(67) wrist_inner_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(68) wrist_outer_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(70) pinky_01_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(71) pinky_02_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(72) pinky_03_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2023.06.06-15.45.09:276][927]LogFbx: SortedLinks :(74) ring_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(75) ring_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(76) ring_03_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(78) middle_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(79) middle_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(80) middle_03_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(82) index_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(83) index_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(84) index_03_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(85) thumb_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(86) thumb_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(87) thumb_03_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(88) weapon_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(97) upperarm_in_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(99) upperarm_out_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(100) clavicle_out_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(106) thigh_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(107) calf_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(108) foot_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(109) ball_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(111) ankle_bck_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2023.06.06-15.45.09:278][927]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(117) calf_knee_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(124) thigh_bck_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(125) thigh_out_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(126) thigh_in_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(129) thigh_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(130) calf_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(131) foot_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(132) ball_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(133) ankle_bck_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(140) calf_knee_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(146) thigh_bck_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(148) thigh_out_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(150) thigh_in_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(152) ik_foot_root
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(153) ik_foot_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(154) ik_foot_r
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(155) ik_hand_root
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(156) ik_hand_gun
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(157) ik_hand_l
+[2023.06.06-15.45.09:279][927]LogFbx: SortedLinks :(158) ik_hand_r
+[2023.06.06-15.45.09:280][927]LogFbx: SortedLinks :(159) interaction
+[2023.06.06-15.45.09:280][927]LogFbx: SortedLinks :(160) center_of_mass
+[2023.06.06-15.45.09:286][927]LogFbx: Parsing AnimStack Unreal Take
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : MoveData_Speed
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(MoveData_Speed) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : base_pose
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(base_pose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_l_back_50
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(calf_l_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_l_back_120
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(calf_l_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_l_back_90
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(calf_l_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_l_back_150
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(calf_l_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_r_back_50
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName(calf_r_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:289][927]LogFbx: CurveName : calf_r_back_120
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(calf_r_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : calf_r_back_90
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(calf_r_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : calf_r_back_150
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(calf_r_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_l_fwd_30
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_l_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_l_down_20
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_l_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_l_back_30
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_l_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_l_up_40
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_l_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_fwd_30
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_down_20
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_back_30
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_up_40
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_back_310
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_back_310) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : clavicle_r_up_401
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(clavicle_r_up_401) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : foot_l_down_60
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(foot_l_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : foot_l_up_35
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(foot_l_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : foot_r_up_35
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(foot_r_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : foot_r_down_60
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(foot_r_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_l_down_90
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_l_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_l_up_20
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_l_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_l_up_90
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_l_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_r_up_90
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_r_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_r_down_90
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_r_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : hand_r_up_20
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(hand_r_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : Pose_0
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : Pose_1
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(Pose_1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : Pose_2
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(Pose_2) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : Pose_3
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName(Pose_3) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:290][927]LogFbx: CurveName : Pose_4
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(Pose_4) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : Pose_5
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(Pose_5) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : Pose_6
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(Pose_6) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : Pose_7
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(Pose_7) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : Pose_8
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(Pose_8) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_110
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_35
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_out_35
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_50
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_75
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_10
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_out_10
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_l_in_90
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_l_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_r_in_10
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_r_out_10
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_r_out_35
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_r_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName : lowerarm_r_in_75
+[2023.06.06-15.45.09:291][927]LogFbx: CurveName(lowerarm_r_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : lowerarm_r_in_50
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(lowerarm_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : lowerarm_r_in_110
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(lowerarm_r_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : lowerarm_r_in_35
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(lowerarm_r_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : lowerarm_r_in_90
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(lowerarm_r_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_bck_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_fwd_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_in_45_out_90
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_fwd_90
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_bck_90
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_bck_50
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_out_110
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_out_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_fwd_45
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_in_50
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_fwd_110
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_out_55
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_l_out_85
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_fwd_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_out_55
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_fwd_90
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_fwd_45
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_bck_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_out_85
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_in_50
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName : thigh_r_out_10
+[2023.06.06-15.45.09:292][927]LogFbx: CurveName(thigh_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : thigh_r_out_110
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(thigh_r_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : thigh_r_bck_50
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(thigh_r_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : thigh_r_bck_90
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(thigh_r_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : thigh_r_in_45_out_90
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(thigh_r_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : thigh_r_fwd_110
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(thigh_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_back_45
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out_55
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out110_twist_in_70
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out_85
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_fwd_110
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_in_10
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out110_twist_out_70
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out_twist_a
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_fwd_15
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out_15
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_back_10
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_out110
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_fwd_twist_in_a
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName : upperarm_l_fwd_90
+[2023.06.06-15.45.09:293][927]LogFbx: CurveName(upperarm_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out_15
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_fwd_15
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out_twist_a
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_fwd_90
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out110
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_back_10
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out_85
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_in_10
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_back_45
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_out_55
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_fwd_twist_in_a
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : upperarm_r_fwd_110
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(upperarm_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : Distance
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(Distance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : RemainingTurnYaw
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(RemainingTurnYaw) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : TurnYawWeight
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(TurnYawWeight) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : GroundDistance
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(GroundDistance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : DisableLHandIK
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(DisableLHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : ScaleDownWeaponR
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(ScaleDownWeaponR) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : DisableLegIK
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(DisableLegIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : blendParent1
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : DisableRHandIK
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(DisableRHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : DisableLeftHandPoseOverride
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(DisableLeftHandPoseOverride) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : applyHipfireOverridePose
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(applyHipfireOverridePose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName : DisableHandIKRetargeting
+[2023.06.06-15.45.09:294][927]LogFbx: CurveName(DisableHandIKRetargeting) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : lowerarm_r_in_80
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(lowerarm_r_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : lowerarm_l_in_80
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(lowerarm_l_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : calf_r_back_130
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(calf_r_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : calf_l_back_130
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(calf_l_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : Pose_9
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(Pose_9) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out_15 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_fwd_15 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_fwd_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out_twist_a 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out_twist_a ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out110 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : base_pose 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(base_pose ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_back_10 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_back_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out_85 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out_85 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_in_10 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_in_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_back_45 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_back_45 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_fwd_110 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_fwd_110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : lowerarm_r_in_35 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(lowerarm_r_in_35 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_out_55 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_out_55 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName : upperarm_r_fwd_90 
+[2023.06.06-15.45.09:295][927]LogFbx: CurveName(upperarm_r_fwd_90 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.09:296][927]LogFbx: PropertyName : TCHour
+[2023.06.06-15.45.09:296][927]LogFbx: PropertyName : TCMinute
+[2023.06.06-15.45.09:296][927]LogFbx: PropertyName : TCSecond
+[2023.06.06-15.45.09:296][927]LogFbx: PropertyName : TCFrame
+[2023.06.06-15.45.09:919][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouh_Walk.Crouh_Walk
+[2023.06.06-15.45.09:929][927]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\chris\Downloads\Crouch_Idle.FBX)
+[2023.06.06-15.45.09:967][927]LogFbx: Loading FBX Scene from C:\Users\chris\Downloads\Crouch_Idle.FBX
+[2023.06.06-15.45.10:058][927]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(0) root
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(1) pelvis
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(2) spine_01
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(3) spine_02
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(4) spine_03
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(5) spine_04
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(6) spine_05
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(7) neck_01
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(8) neck_02
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(9) head
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(10) clavicle_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(11) upperarm_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(12) lowerarm_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(20) hand_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(21) wrist_inner_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(22) wrist_outer_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(24) index_01_l
+[2023.06.06-15.45.10:060][927]LogFbx: SortedLinks :(25) index_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(26) index_03_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(28) middle_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(29) middle_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(30) middle_03_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(31) thumb_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(32) thumb_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(33) thumb_03_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(35) pinky_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(36) pinky_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(37) pinky_03_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(39) ring_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(40) ring_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(41) ring_03_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(42) weapon_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(52) upperarm_in_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(53) upperarm_out_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(54) clavicle_out_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(56) clavicle_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(57) upperarm_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(58) lowerarm_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(66) hand_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(67) wrist_inner_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(68) wrist_outer_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(70) pinky_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(71) pinky_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(72) pinky_03_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(74) ring_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(75) ring_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(76) ring_03_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(78) middle_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(79) middle_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(80) middle_03_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(82) index_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(83) index_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(84) index_03_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(85) thumb_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(86) thumb_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(87) thumb_03_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(88) weapon_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(97) upperarm_in_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(99) upperarm_out_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(100) clavicle_out_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(106) thigh_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(107) calf_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(108) foot_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(109) ball_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(111) ankle_bck_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2023.06.06-15.45.10:061][927]LogFbx: SortedLinks :(117) calf_knee_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(124) thigh_bck_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(125) thigh_out_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(126) thigh_in_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(129) thigh_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(130) calf_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(131) foot_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(132) ball_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(133) ankle_bck_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(140) calf_knee_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(146) thigh_bck_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(148) thigh_out_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(150) thigh_in_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(152) ik_foot_root
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(153) ik_foot_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(154) ik_foot_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(155) ik_hand_root
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(156) ik_hand_gun
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(157) ik_hand_l
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(158) ik_hand_r
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(159) interaction
+[2023.06.06-15.45.10:062][927]LogFbx: SortedLinks :(160) center_of_mass
+[2023.06.06-15.45.10:064][927]LogFbx: Parsing AnimStack Unreal Take
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : MoveData_Speed
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(MoveData_Speed) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : base_pose
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(base_pose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_l_back_50
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_l_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_l_back_120
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_l_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_l_back_90
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_l_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_l_back_150
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_l_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_r_back_50
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_r_back_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_r_back_120
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_r_back_120) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_r_back_90
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_r_back_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : calf_r_back_150
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(calf_r_back_150) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_l_fwd_30
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_l_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_l_down_20
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_l_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_l_back_30
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_l_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_l_up_40
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_l_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_fwd_30
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_fwd_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_down_20
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_down_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_back_30
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_back_30) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_up_40
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_up_40) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_back_310
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_back_310) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : clavicle_r_up_401
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(clavicle_r_up_401) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : foot_l_down_60
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(foot_l_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : foot_l_up_35
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(foot_l_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : foot_r_up_35
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(foot_r_up_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : foot_r_down_60
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(foot_r_down_60) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : hand_l_down_90
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName(hand_l_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:065][927]LogFbx: CurveName : hand_l_up_20
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(hand_l_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : hand_l_up_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(hand_l_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : hand_r_up_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(hand_r_up_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : hand_r_down_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(hand_r_down_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : hand_r_up_20
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(hand_r_up_20) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_0
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_0) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_1
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_2
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_2) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_3
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_3) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_4
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_4) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_5
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_5) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_6
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_6) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_7
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_7) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : Pose_8
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(Pose_8) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_110
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_35
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_out_35
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_50
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_75
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_out_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_l_in_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_l_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_out_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_out_35
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_out_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_75
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_75) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_50
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_110
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_35
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_35) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : lowerarm_r_in_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(lowerarm_r_in_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_bck_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_fwd_10
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_in_45_out_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_fwd_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_bck_90
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName : thigh_l_bck_50
+[2023.06.06-15.45.10:067][927]LogFbx: CurveName(thigh_l_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_out_110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_out_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_fwd_45
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_in_50
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_fwd_110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_out_55
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_l_out_85
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_fwd_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_fwd_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_out_55
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_fwd_90
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_fwd_45
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_fwd_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_bck_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_bck_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_out_85
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_in_50
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_in_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_out_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_out_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_out_110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_out_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_bck_50
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_bck_50) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_bck_90
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_bck_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_in_45_out_90
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_in_45_out_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : thigh_r_fwd_110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(thigh_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_back_45
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out_55
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out110_twist_in_70
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out_85
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_fwd_110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_in_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out110_twist_out_70
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out_twist_a
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_fwd_15
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out_15
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_back_10
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_out110
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_fwd_twist_in_a
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName : upperarm_l_fwd_90
+[2023.06.06-15.45.10:068][927]LogFbx: CurveName(upperarm_l_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out_15
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_fwd_15
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_fwd_15) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out_twist_a
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out_twist_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_fwd_90
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_fwd_90) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out110
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_back_10
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_back_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out_85
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out_85) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_in_10
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_in_10) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_back_45
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_back_45) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out_55
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out_55) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_fwd_twist_in_a
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_fwd_twist_in_a) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_fwd_110
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_fwd_110) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : Distance
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(Distance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : RemainingTurnYaw
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(RemainingTurnYaw) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : TurnYawWeight
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(TurnYawWeight) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : GroundDistance
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(GroundDistance) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : DisableLHandIK
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(DisableLHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : ScaleDownWeaponR
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(ScaleDownWeaponR) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : DisableLegIK
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(DisableLegIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : blendParent1
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(blendParent1) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : DisableRHandIK
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(DisableRHandIK) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : DisableLeftHandPoseOverride
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(DisableLeftHandPoseOverride) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : applyHipfireOverridePose
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(applyHipfireOverridePose) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : DisableHandIKRetargeting
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(DisableHandIKRetargeting) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : lowerarm_r_in_80
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(lowerarm_r_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : lowerarm_l_in_80
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(lowerarm_l_in_80) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : calf_r_back_130
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(calf_r_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : calf_l_back_130
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(calf_l_back_130) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : Pose_9
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(Pose_9) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_out_15 
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName(upperarm_r_out_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:069][927]LogFbx: CurveName : upperarm_r_fwd_15 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_fwd_15 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out_twist_a 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out_twist_a ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out110_twist_in_70 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out110_twist_in_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out110 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : base_pose 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(base_pose ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_back_10 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_back_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out_85 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out_85 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_in_10 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_in_10 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_back_45 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_back_45 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out110_twist_out_70 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out110_twist_out_70 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_fwd_110 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_fwd_110 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : lowerarm_r_in_35 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(lowerarm_r_in_35 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_out_55 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_out_55 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName : upperarm_r_fwd_90 
+[2023.06.06-15.45.10:070][927]LogFbx: CurveName(upperarm_r_fwd_90 ) is skipped because it only contains invalid values.
+[2023.06.06-15.45.10:070][927]LogFbx: PropertyName : TCHour
+[2023.06.06-15.45.10:070][927]LogFbx: PropertyName : TCMinute
+[2023.06.06-15.45.10:070][927]LogFbx: PropertyName : TCSecond
+[2023.06.06-15.45.10:071][927]LogFbx: PropertyName : TCFrame
+[2023.06.06-15.45.12:402][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch_Idle.Crouch_Idle
+[2023.06.06-15.45.12:402][927]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
