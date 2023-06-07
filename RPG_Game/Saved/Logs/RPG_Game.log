@@ -37599,3 +37599,1210 @@ Script Stack (0 frames):
 [2023.06.07-13.18.55:890][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.06.07-13.18.55:894][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2023.06.07-13.18.55:959][234]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2023.06.07-13.32.09:363][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:386][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:406][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:422][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:441][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:458][764]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:477][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:496][766]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:523][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:543][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:560][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:579][770]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:601][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:621][772]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:641][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:658][774]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:677][775]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:689][776]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:704][777]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:716][778]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:726][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:740][780]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:750][781]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:761][782]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:773][783]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:784][784]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:798][785]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:809][786]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:821][787]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:834][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:847][789]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:860][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:874][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:886][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:899][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:911][794]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:922][795]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:935][796]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:947][797]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:957][798]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:971][799]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:983][800]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.09:995][801]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:007][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:018][803]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:030][804]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:043][805]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:053][806]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:067][807]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:078][808]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:089][809]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:103][810]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:116][811]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:129][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:147][813]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:163][814]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:178][815]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:193][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:208][817]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:221][818]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:233][819]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:248][820]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:260][821]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:274][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:284][823]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:297][824]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:312][825]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:325][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:340][827]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:353][828]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:368][829]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:380][830]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:393][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:407][832]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:419][833]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:430][834]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:441][835]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:451][836]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:462][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:472][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:482][839]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:492][840]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:502][841]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:514][842]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:522][843]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:533][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:543][845]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:553][846]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:564][847]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:577][848]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:592][849]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:627][850]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:638][851]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:648][852]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:658][853]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:672][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:681][855]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:689][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:701][857]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:710][858]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:719][859]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:730][860]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:741][861]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:748][862]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:758][863]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:769][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:781][865]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:791][866]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:803][867]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:812][868]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:822][869]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:831][870]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:842][871]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:850][872]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:860][873]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:870][874]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:878][875]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:887][876]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:898][877]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.10:908][878]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.11:254][912]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.11:255][912]LogViewport: Scene viewport resized to 1823x913, mode Windowed.
+[2023.06.07-13.32.12:144][999]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.32.17:139][402]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.06.07-13.32.17:139][402]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.06.07-13.32.17:139][402]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2023.06.07-13.32.17:162][402]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2023.06.07-13.32.18:470][402]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.06.07-13.32.22:243][402]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.06.07-13.32.26:732][402]LogSkeletalMesh: Built Skeletal Mesh [9.63s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.06.07-13.32.26:748][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:753][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:758][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:768][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:773][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:779][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:801][402]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.06.07-13.32.26:801][402]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.06.07-13.32.26:801][402]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.26:843][403]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.06.07-13.32.26:843][403]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.06.07-13.32.26:935][405]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.06.07-13.32.26:935][405]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.06.07-13.32.26:944][406]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.06.07-13.32.26:944][406]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.06.07-13.32.26:996][407]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.06.07-13.32.26:996][407]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.06.07-13.32.27:006][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.06.07-13.32.27:006][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.06.07-13.32.29:677][649]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.07-13.32.29:753][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:757][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:760][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:766][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:769][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:774][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_197
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:796][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_198
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_199
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:797][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_200
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_201
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:798][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_202
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:799][649]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_203
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.32.29:846][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.07-13.32.29:861][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:868][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:873][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:879][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:905][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:909][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:914][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.29:942][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.30:101][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.07-13.32.30:107][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.054
+[2023.06.07-13.32.30:107][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.06.07-13.32.30:120][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.06.07-13.32.30:120][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.06.07-13.32.30:139][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2023.06.07-13.32.30:140][650]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/BP_ThirdPersonCharacter_Auto8F730385949FBB4F2AEA6F3891FC9E652.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2023.06.07-13.32.30:140][650]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.06.07-13.32.31:158][729]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: GetPartitionedActors took 45 us
+[2023.06.07-13.32.31:173][729]LogWorldPartition: Display: GenerateStreaming took 278 us
+[2023.06.07-13.32.31:173][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.32.31:173][729]PIE: New page: PIE session: ThirdPersonMap (7 Jun 2023, 15:32:31)
+[2023.06.07-13.32.31:212][729]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.32.31:215][729]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.06.07-13.32.31:216][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003639s)
+[2023.06.07-13.32.31:216][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003730s)
+[2023.06.07-13.32.31:216][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.32.31:216][729]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.07-13.32.31:216][729]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.07-13.32.31:216][729]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.06.07-13.32.31:217][729]LogWorldPartition: Display: WorldPartition initialize took 794 us
+[2023.06.07-13.32.31:217][729]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2023.06.07-13.32.31:260][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.07-13.32.31:263][729]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.07-13.32.31:263][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.32.31:263][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.32.31:264][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.07-13.32.31:264][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.07-13.32.31:264][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.07-13.32.31:266][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.07-13.32.31:369][729]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.07-13.32.31:371][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.32.31:371][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.32.31:371][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.32.31:372][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.06.07-13.32.31:372][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.06.07-13.32.31:373][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.06.07-13.32.31:373][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.06.07-13.32.31:373][729]LogInit: FAudioDevice initialized.
+[2023.06.07-13.32.31:373][729]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2023.06.07-13.32.31:382][729]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.07-13.32.31:384][729]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.07-14.32.31
+[2023.06.07-13.32.31:384][729]LogWorld: Bringing up level for play took: 0.001531
+[2023.06.07-13.32.31:386][729]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.06.07-13.32.31:388][729]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.32.31:390][729]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.07-13.32.31:390][729]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.32.31:391][729]PIE: Server logged in
+[2023.06.07-13.32.31:392][729]PIE: Play in editor total start time 0.223 seconds.
+[2023.06.07-13.32.50:691][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.32.50:691][670]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.32.50:691][670]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.32.50:691][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.32.50:708][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.32.50:714][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.32.50:756][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.32.50:756][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.06.07-13.32.50:758][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.06.07-13.32.50:769][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.07-13.32.50:831][671]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.06.07-13.33.19:986][ 50]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.33.38:611][ 46]LogContentBrowser: Deferred new asset file creation: MI_Manny_03
+[2023.06.07-13.33.38:621][ 46]LogContentBrowser: Creating deferred item: MI_Manny_03
+[2023.06.07-13.33.38:638][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Manny_03).
+[2023.06.07-13.33.43:166][447]LogContentBrowser: Attempting asset rename: MI_Manny_03 -> Manny_blue
+[2023.06.07-13.33.43:169][447]LogContentBrowser: End creating deferred item MI_Manny_03
+[2023.06.07-13.33.59:446][546]LogContentBrowser: Attempting asset rename: MI_Manny_02 -> Manny_blue_2
+[2023.06.07-13.34.00:078][546]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.06.07-13.34.01:351][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" SILENT=true
+[2023.06.07-13.34.02:905][546]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny
+[2023.06.07-13.34.02:906][546]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/SKM_MannyC8716F7E438D9BCCA66DEDA6FC8310E4.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2023.06.07-13.34.03:755][546]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple
+[2023.06.07-13.34.03:757][546]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/SKM_Manny_Simple15AC32C845D1E873CA05D58E2497AF07.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset'
+[2023.06.07-13.34.03:766][546]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Manny/Manny_blue_2
+[2023.06.07-13.34.03:766][546]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/Manny_blue_2BCA8C46645A6F80C9905DF8BAF0BC73D.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_blue_2.uasset'
+[2023.06.07-13.34.03:838][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.06.07-13.34.03:889][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.07-13.34.03:936][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.06.07-13.34.03:946][546]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.07-13.34.03:946][546]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.06.07-13.34.03:946][546]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/Manny_blue_2.Manny_blue_2
+[2023.06.07-13.34.03:946][546]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2023.06.07-13.34.08:101][758]LogContentBrowser: Attempting asset rename: Manny_blue_2 -> Manny_blue_2
+[2023.06.07-13.34.19:622][776]LogContentBrowser: Attempting asset rename: Manny_blue_2 -> MI_Manny_02
+[2023.06.07-13.34.20:426][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" SILENT=true
+[2023.06.07-13.34.21:646][776]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny
+[2023.06.07-13.34.21:647][776]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/SKM_MannyB29695A54B8743CA120CCF8CE7C95505.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2023.06.07-13.34.22:272][776]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple
+[2023.06.07-13.34.22:272][776]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/SKM_Manny_Simple1ABBA23A458116BD3782D1BCC2545503.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset'
+[2023.06.07-13.34.22:281][776]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02
+[2023.06.07-13.34.22:281][776]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/MI_Manny_022EFB66E44ADCA4E7E94666B9828358E4.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset'
+[2023.06.07-13.34.22:347][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.07-13.34.22:391][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.07-13.34.22:435][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.06.07-13.34.22:446][776]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.07-13.34.22:446][776]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.06.07-13.34.22:446][776]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.MI_Manny_02
+[2023.06.07-13.34.22:446][776]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2023.06.07-13.34.23:562][867]LogContentBrowser: Deferred new asset file creation: MI_Manny_03
+[2023.06.07-13.34.23:574][867]LogContentBrowser: Creating deferred item: MI_Manny_03
+[2023.06.07-13.34.23:588][868]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Manny_03).
+[2023.06.07-13.34.28:128][275]LogContentBrowser: Attempting asset rename: MI_Manny_03 -> Manny_blue_2
+[2023.06.07-13.34.28:130][275]LogContentBrowser: End creating deferred item MI_Manny_03
+[2023.06.07-13.34.35:747][428]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/Manny_blue.Manny_blue
+[2023.06.07-13.34.35:750][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.34.36:218][428]LogViewport: Scene viewport resized to 1778x1161, mode Windowed.
+[2023.06.07-13.34.36:272][428]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.06.07-13.34.36:348][428]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.075 s
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: 
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: Ensure condition failed: !CustomResetToDefault.IsSet() [File:D:\build\++UE5\Sync\Engine\Source\Editor\PropertyEditor\Private\DetailPropertyRow.cpp] [Line: 726]
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: Duplicate reset to default handlers set on both FDetailPropertyRow and CustomWidget()!
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: Stack: 
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9f96e99a UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9f93deb3 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9f93dddf UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fbbcb40 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9f927390 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fc2f1ec UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fbed496 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fc01c51 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fc03096 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fc451fa UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff103742a UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007fff9fc5d623 UnrealEditor-PropertyEditor.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c7163 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0f76110 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0f76110 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0ff54ec UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0f76110 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0ff54ec UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c4565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c39cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c78e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8684 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff076ce1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:348][428]LogOutputDevice: Error: [Callstack] 0x00007ffff08c8945 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d2904e UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d294ca UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d54787 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d29b14 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d7afa9 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ffff0d7a738 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b8f8e7d UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b910d9c UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b910e8a UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b913c4d UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b925564 UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff68b928736 UnrealEditor.exe!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff86e5c26ad KERNEL32.DLL!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: [Callstack] 0x00007ff86f72a9f8 ntdll.dll!UnknownFunction []
+[2023.06.07-13.34.36:349][428]LogOutputDevice: Error: 
+[2023.06.07-13.34.36:357][428]LogStats:                SubmitErrorReport -  0.000 s
+[2023.06.07-13.34.37:403][428]LogStats:                    SendNewReport -  1.046 s
+[2023.06.07-13.34.37:403][428]LogStats:             FDebug::EnsureFailed -  1.130 s
+[2023.06.07-13.34.47:456][855]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.07-13.35.09:774][592]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.07-13.35.09:778][592]LogSlate: Window 'Manny_blue' being destroyed
+[2023.06.07-13.35.09:836][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.06.07-13.35.10:020][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.06.07-13.35.10:049][592]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.35.10:049][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.12:780][824]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.MI_Manny_02
+[2023.06.07-13.35.12:782][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.35.13:194][824]LogViewport: Scene viewport resized to 1778x1161, mode Windowed.
+[2023.06.07-13.35.14:589][911]LogSlate: Window 'MI_Manny_02' being destroyed
+[2023.06.07-13.35.14:596][911]LogSlate: Window 'MI_Manny_02' being destroyed
+[2023.06.07-13.35.14:612][911]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.35.14:612][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.16:311][ 43]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Mannequins/Materials/Instances/Manny/Manny_blue_2.Manny_blue_2
+[2023.06.07-13.35.16:313][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.35.16:732][ 43]LogViewport: Scene viewport resized to 1778x1161, mode Windowed.
+[2023.06.07-13.35.26:975][671]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.07-13.35.40:844][917]LogSlate: Window 'Manny_blue_2' being destroyed
+[2023.06.07-13.35.40:852][917]LogSlate: Window 'Manny_blue_2' being destroyed
+[2023.06.07-13.35.40:910][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.07-13.35.41:100][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.06.07-13.35.41:129][917]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.35.41:129][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.46:773][276]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.46:782][276]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.46:788][276]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.46:851][276]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.35.48:605][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.48:611][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.48:617][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.48:683][362]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.35.50:440][492]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.07-13.35.50:517][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:523][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:526][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:532][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:536][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:540][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:562][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_204
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:564][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_205
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_206
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_207
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:565][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_208
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:566][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_209
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:027E
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:032B
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0377
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:038C
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:03D0
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:0402
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:567][492]LogScript: Warning: Accessed None trying to read property Character
+	ABP_MainCharacter_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainCharacter_C_210
+	Function /Game/Animation/ABP_MainCharacter.ABP_MainCharacter_C:ExecuteUbergraph_ABP_MainCharacter:05A0
+[2023.06.07-13.35.50:622][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.06.07-13.35.50:641][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:649][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:656][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:662][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:679][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:685][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:691][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.50:720][492]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.51:139][516]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.07-13.35.51:140][516]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/BP_ThirdPersonCharacter3325F1E54FC151CAA6114093605416F8.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.07-13.35.51:156][516]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.07-13.35.51:156][516]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.07-13.35.52:888][638]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.06.07-13.35.52:905][638]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2023.06.07-13.35.52:906][638]LogWorldPartition: Display: GenerateStreaming took 292 us
+[2023.06.07-13.35.52:906][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.35.52:906][638]PIE: New page: PIE session: ThirdPersonMap (7 Jun 2023, 15:35:52)
+[2023.06.07-13.35.52:906][638]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.35.52:910][638]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.06.07-13.35.52:910][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004312s)
+[2023.06.07-13.35.52:910][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004359s)
+[2023.06.07-13.35.52:910][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.35.52:910][638]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.07-13.35.52:912][638]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.07-13.35.52:912][638]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.06.07-13.35.52:913][638]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.06.07-13.35.52:913][638]LogPlayLevel: PIE: World Init took: (0.002551s)
+[2023.06.07-13.35.52:959][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.06.07-13.35.52:967][638]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.07-13.35.52:967][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.35.52:967][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.35.52:967][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.07-13.35.52:967][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.07-13.35.52:967][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.07-13.35.52:970][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.07-13.35.53:072][638]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.07-13.35.53:073][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.35.53:073][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.35.53:073][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.35.53:073][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.06.07-13.35.53:073][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.06.07-13.35.53:075][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.06.07-13.35.53:075][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.06.07-13.35.53:075][638]LogInit: FAudioDevice initialized.
+[2023.06.07-13.35.53:075][638]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2023.06.07-13.35.53:091][638]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.07-13.35.53:093][638]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.07-14.35.53
+[2023.06.07-13.35.53:095][638]LogWorld: Bringing up level for play took: 0.002081
+[2023.06.07-13.35.53:097][638]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.06.07-13.35.53:099][638]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.35.53:102][638]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.07-13.35.53:102][638]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.35.53:102][638]PIE: Server logged in
+[2023.06.07-13.35.53:104][638]PIE: Play in editor total start time 0.203 seconds.
+[2023.06.07-13.35.57:415][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.35.57:415][ 52]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.35.57:415][ 52]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.35.57:415][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.57:428][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.35.57:439][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.57:486][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.07-13.35.57:486][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.06.07-13.35.57:488][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.06.07-13.35.57:495][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.35.57:500][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.07-13.35.57:572][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.06.07-13.36.23:948][357]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.36.26:533][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.26:538][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.26:543][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.26:592][552]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.36.28:679][685]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.28:685][685]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.28:690][685]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.28:750][685]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.36.31:092][850]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.31:097][850]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.31:103][850]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.31:160][850]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.06.07-13.36.33:435][ 45]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.07-13.36.33:436][ 45]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Saved/BP_ThirdPersonCharacter74B746474CB79F0317C0C896F8910953.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.07-13.36.33:454][ 45]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.07-13.36.33:454][ 45]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.07-13.36.34:746][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2023.06.07-13.36.34:763][139]LogWorldPartition: Display: GenerateStreaming took 301 us
+[2023.06.07-13.36.34:763][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.36.34:763][139]PIE: New page: PIE session: ThirdPersonMap (7 Jun 2023, 15:36:34)
+[2023.06.07-13.36.34:763][139]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.36.34:769][139]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.06.07-13.36.34:769][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005238s)
+[2023.06.07-13.36.34:769][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005311s)
+[2023.06.07-13.36.34:769][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.07-13.36.34:769][139]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.07-13.36.34:770][139]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.07-13.36.34:770][139]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.06.07-13.36.34:771][139]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.06.07-13.36.34:771][139]LogPlayLevel: PIE: World Init took: (0.002489s)
+[2023.06.07-13.36.34:814][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.07-13.36.34:818][139]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.07-13.36.34:818][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.36.34:818][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.36.34:818][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.07-13.36.34:818][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.07-13.36.34:818][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.07-13.36.34:820][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.07-13.36.34:934][139]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.07-13.36.34:934][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.36.34:934][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.36.34:934][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.36.34:936][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.06.07-13.36.34:936][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.06.07-13.36.34:936][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.06.07-13.36.34:937][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.06.07-13.36.34:937][139]LogInit: FAudioDevice initialized.
+[2023.06.07-13.36.34:937][139]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2023.06.07-13.36.34:947][139]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.07-13.36.34:949][139]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.07-14.36.34
+[2023.06.07-13.36.34:949][139]LogWorld: Bringing up level for play took: 0.001603
+[2023.06.07-13.36.34:952][139]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.06.07-13.36.34:953][139]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.07-13.36.34:955][139]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.07-13.36.34:955][139]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.07-13.36.34:956][139]PIE: Server logged in
+[2023.06.07-13.36.34:957][139]PIE: Play in editor total start time 0.198 seconds.
+[2023.06.07-13.36.43:773][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.36.43:773][ 29]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.07-13.36.43:774][ 29]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.36.43:774][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.36.43:785][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.36.43:792][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.36.43:834][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.07-13.36.43:834][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.06.07-13.36.43:837][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.06.07-13.36.43:842][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.36.43:845][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.07-13.36.43:911][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_92
