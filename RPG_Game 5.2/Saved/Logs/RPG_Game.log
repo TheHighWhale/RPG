@@ -5307,3 +5307,137 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.10-16.19.10:992][650]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/71NQEGLQD98RDLI6YGC403_Auto601C5DBB94E9D5F489BF8E1B65156DD9B.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YZ/71NQEGLQD98RDLI6YGC403_Auto6.uasset'
 [2023.06.10-16.19.10:996][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
 [2023.06.10-16.19.10:996][650]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.06.10-16.24.14:698][795]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.10-16.24.14:709][795]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.10-16.24.14:721][795]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.10-16.24.14:744][796]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.10-16.24.28:824][270]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.06.10-16.24.28:834][270]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.10-16.24.30:486][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.10-16.24.31:970][337]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.10-16.24.32:005][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.10-16.24.32:032][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.10-16.24.32:057][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.10-16.24.34:892][393]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.10-16.24.34:919][393]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.10-16.24.34:931][393]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.10-16.24.34:948][394]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.10-16.24.40:989][754]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerStats
+[2023.06.10-16.24.40:994][754]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.10-16.24.42:509][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.24.42:509][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.10-16.24.42:509][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.10-16.24.56:462][581]LogSlate: Took 0.003678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.10-16.25.21:713][829]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.25.21:747][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.10-16.25.23:131][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.25.23:218][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.25.23:223][905]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.25.23:223][905]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats6B9E2346497DF7FC9722B58C75381A98.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.25.23:236][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.64 sec)
+[2023.06.10-16.25.23:242][905]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.25.23:242][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.25.46:314][206]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.25.46:347][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.10-16.25.46:781][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.25.46:879][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.25.46:885][229]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.25.46:887][229]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsF31A53A54DDC08A93AE1969ACBDB0725.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.25.46:897][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.75 sec)
+[2023.06.10-16.25.46:904][229]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.25.46:904][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.30.13:088][902]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.30.13:123][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.10-16.30.13:705][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.30.13:796][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.30.13:806][934]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.30.13:807][934]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsC7CCFE5E489DEDE4F01683AC0A09C883.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.30.13:816][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.86 sec)
+[2023.06.10-16.30.13:821][934]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.30.13:822][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.30.15:707][ 35]LogSlate: Window 'BP_PlayerStats' being destroyed
+[2023.06.10-16.32.14:164][597]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.10-16.32.14:304][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.06.10-16.32.14:336][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:336][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.32.14:341][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:341][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.32.14:346][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:346][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.32.14:349][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:349][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_7.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.32.14:421][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:421][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.32.14:425][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:425][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.32.14:429][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.32.14:429][597]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_7.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.32.16:647][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.32.16:815][722]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.10-16.32.16:816][722]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacter61DB97014ACC9B12E45399AD6BAC0292.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.10-16.32.16:825][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.04 sec)
+[2023.06.10-16.32.16:831][722]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.10-16.32.16:831][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.10-16.33.02:845][234]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.33.02:881][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.06.10-16.33.03:839][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.33.03:928][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.33.03:937][288]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.33.03:937][288]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats186674D84A49EAC6E11852946E0E7AD9.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.33.03:945][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 3.15 sec)
+[2023.06.10-16.33.03:951][288]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.33.03:951][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.33.10:129][659]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.33.10:157][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.10-16.33.10:535][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.33.10:622][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.33.10:631][680]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.33.10:632][680]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats9B086054475FDB3F9C256CBDB40A0B37.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.33.10:640][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.25 sec)
+[2023.06.10-16.33.10:645][680]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.33.10:645][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.33.18:473][148]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.33.18:503][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.10-16.33.19:445][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.33.19:561][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.33.19:569][203]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.33.19:570][203]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsFDDFC224433479DDDC697998FC56C6FD.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.33.19:579][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 3.38 sec)
+[2023.06.10-16.33.19:584][203]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.33.19:585][203]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.34.57:720][967]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.34.57:752][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.10-16.34.58:202][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.34.58:309][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.34.58:319][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.34.58:320][992]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats9EE13FF04888C9F7899DDB8960C42C7C.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.34.58:329][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 3.51 sec)
+[2023.06.10-16.34.58:335][992]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.34.58:335][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.35.24:971][955]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.35.25:003][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.06.10-16.35.25:847][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.35.25:937][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.35.25:949][  4]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.35.25:950][  4]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats33E9D1994CB566C9A0AB83AC0FBB2FD4.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.35.25:959][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.62 sec)
+[2023.06.10-16.35.25:966][  4]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.35.25:966][  4]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.37.49:002][799]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.37.49:036][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.10-16.37.49:477][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.37.49:564][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.37.49:574][824]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.37.49:575][824]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats0D812B6140CFA39AFA647DBF18E5BD3F.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.37.49:585][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.73 sec)
+[2023.06.10-16.37.49:590][824]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.37.49:590][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.10-16.38.17:719][504]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.10-16.38.17:751][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.06.10-16.38.18:224][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.38.18:314][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.10-16.38.18:324][530]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.10-16.38.18:325][530]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsE80F310843263D5DB05D3EB7FE945278.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.10-16.38.18:334][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.84 sec)
+[2023.06.10-16.38.18:341][530]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.10-16.38.18:341][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
