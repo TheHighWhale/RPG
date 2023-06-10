@@ -4585,3 +4585,725 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.10-14.48.12:051][698]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_Enemy_Auto5353AC5F943DB2D5E8C841B8F3DDC2BBD.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto5.uasset'
 [2023.06.10-14.48.12:053][698]LogFileHelpers: Auto-saving content packages took 0.107
 [2023.06.10-14.49.04:765][857]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 578 files in 1056 folders with total size 58 MiB.
+[2023.06.10-15.35.25:330][842]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.35.25:330][842]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Found bundle for host: 0x782ee170000 [serially])
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.197.224.21) port 443 (#0))
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: 000007835B452800: libcurl info message cache 7 (Closing connection 0)
+[2023.06.10-15.35.25:331][842]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.35.25:985][843]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.06.10-15.35.27:985][849]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.06.10-15.36.13:371][986]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.36.13:371][986]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.36.13:371][986]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.36.13:371][986]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 1)
+[2023.06.10-15.36.13:371][986]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.37.13:384][166]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.37.13:384][166]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.37.13:384][166]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.37.13:384][166]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 2)
+[2023.06.10-15.37.13:384][166]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.38.13:393][346]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.38.13:393][346]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.38.13:393][346]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.38.13:393][346]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 3)
+[2023.06.10-15.38.13:393][346]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.39.13:403][526]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.39.13:403][526]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.39.13:403][526]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.39.13:403][526]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 4)
+[2023.06.10-15.39.13:403][526]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.40.13:415][706]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.40.13:415][706]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.40.13:415][706]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.40.13:415][706]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 5)
+[2023.06.10-15.40.13:415][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.41.13:427][886]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.41.13:427][886]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.41.13:427][886]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.41.13:427][886]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 6)
+[2023.06.10-15.41.13:427][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.42.13:446][ 66]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.42.13:446][ 66]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.42.13:446][ 66]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.42.13:446][ 66]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 7)
+[2023.06.10-15.42.13:446][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.43.13:455][246]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.43.13:455][246]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.43.13:455][246]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.43.13:455][246]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 8)
+[2023.06.10-15.43.13:455][246]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.44.13:465][426]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.44.13:465][426]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.44.13:465][426]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.44.13:465][426]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 9)
+[2023.06.10-15.44.13:465][426]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.45.13:470][606]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.45.13:470][606]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.45.13:470][606]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.45.13:470][606]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 10)
+[2023.06.10-15.45.13:470][606]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.46.13:478][786]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.46.13:478][786]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.46.13:478][786]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.46.13:478][786]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 11)
+[2023.06.10-15.46.13:478][786]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.47.13:485][966]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.47.13:485][966]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.47.13:485][966]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.47.13:485][966]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 12)
+[2023.06.10-15.47.13:485][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.48.13:632][146]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.48.13:632][146]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.48.13:632][146]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.48.13:632][146]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 13)
+[2023.06.10-15.48.13:632][146]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.49.04:748][299]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 578 files in 1056 folders with total size 58 MiB.
+[2023.06.10-15.49.13:642][326]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.49.13:642][326]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.49.13:642][326]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.49.13:642][326]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 14)
+[2023.06.10-15.49.13:643][326]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.50.13:652][506]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.50.13:652][506]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.50.13:652][506]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.50.13:652][506]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 15)
+[2023.06.10-15.50.13:652][506]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.51.13:691][686]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.51.13:691][686]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.51.13:691][686]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.51.13:691][686]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 16)
+[2023.06.10-15.51.13:691][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.52.13:703][866]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.52.13:703][866]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.52.13:703][866]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.52.13:703][866]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 17)
+[2023.06.10-15.52.13:703][866]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.53.13:719][ 46]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.53.13:719][ 46]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.53.13:719][ 46]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.53.13:719][ 46]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 18)
+[2023.06.10-15.53.13:719][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.54.13:728][226]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.54.13:728][226]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.54.13:728][226]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.54.13:728][226]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 19)
+[2023.06.10-15.54.13:728][226]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.55.13:738][406]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.55.13:738][406]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.55.13:738][406]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.55.13:738][406]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 20)
+[2023.06.10-15.55.13:738][406]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.56.13:746][586]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.56.13:746][586]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.56.13:746][586]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.56.13:746][586]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 21)
+[2023.06.10-15.56.13:746][586]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.57.13:759][766]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.57.13:759][766]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.57.13:759][766]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.57.13:759][766]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 22)
+[2023.06.10-15.57.13:759][766]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.58.13:772][946]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.58.13:772][946]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.58.13:772][946]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.58.13:772][946]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 23)
+[2023.06.10-15.58.13:772][946]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-15.59.13:783][126]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-15.59.13:783][126]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-15.59.13:783][126]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-15.59.13:783][126]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 24)
+[2023.06.10-15.59.13:783][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.00.13:794][306]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.00.13:794][306]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.00.13:794][306]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.00.13:794][306]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 25)
+[2023.06.10-16.00.13:794][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.01.13:805][486]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.01.13:805][486]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.01.13:805][486]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.01.13:805][486]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 26)
+[2023.06.10-16.01.13:805][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.02.13:961][666]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.02.13:961][666]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.02.13:961][666]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.02.13:961][666]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 27)
+[2023.06.10-16.02.13:961][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.03.13:975][846]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.03.13:975][846]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.03.13:975][846]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.03.13:975][846]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 28)
+[2023.06.10-16.03.13:975][846]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.04.13:988][ 26]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.04.13:988][ 26]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.04.13:988][ 26]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.04.13:988][ 26]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 29)
+[2023.06.10-16.04.13:988][ 26]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.05.14:000][206]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.05.14:000][206]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.05.14:000][206]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.05.14:000][206]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 30)
+[2023.06.10-16.05.14:000][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.06.14:047][386]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.06.14:047][386]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.06.14:047][386]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.06.14:047][386]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 31)
+[2023.06.10-16.06.14:047][386]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.07.14:058][566]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.07.14:058][566]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.07.14:058][566]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.07.14:058][566]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 32)
+[2023.06.10-16.07.14:058][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.08.14:064][746]LogHttp: Warning: 000007835B452800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.08.14:064][746]LogHttp: Warning: 000007835B452800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.08.14:064][746]LogHttp: Warning: 000007835B452800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.08.14:064][746]LogHttp: Warning: 000007835B452800: libcurl info message cache 1 (Closing connection 33)
+[2023.06.10-16.08.14:064][746]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.09.10:211][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.10-16.09.10:221][199]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.10-16.09.10:222][199]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.10-16.09.10:223][199]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.10-16.09.10:223][199]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.10-16.09.10:223][199]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 179 us)
+[2023.06.10-16.09.10:223][199]LogWorldPartition: Display: GenerateStreaming took 137 us (total: 3 ms)
+[2023.06.10-16.09.10:226][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.10-16.09.10:226][199]PIE: New page: PIE session: ThirdPersonMap (10 Jun 2023, 18:09:10)
+[2023.06.10-16.09.10:226][199]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.10-16.09.10:231][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004697s)
+[2023.06.10-16.09.10:231][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004734s)
+[2023.06.10-16.09.10:231][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.10-16.09.10:231][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.10-16.09.10:232][199]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.10-16.09.10:232][199]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.10-16.09.10:232][199]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.10-16.09.10:232][199]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.10-16.09.10:233][199]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.10-16.09.10:233][199]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.08 sec)
+[2023.06.10-16.09.10:233][199]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2023.06.10-16.09.10:255][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.10-16.09.10:256][199]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.10-16.09.10:256][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.10-16.09.10:256][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.10-16.09.10:257][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.10-16.09.10:257][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.10-16.09.10:257][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.10-16.09.10:259][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.10-16.09.10:359][199]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.10-16.09.10:359][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.10-16.09.10:359][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.10-16.09.10:359][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.10-16.09.10:360][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.06.10-16.09.10:360][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.06.10-16.09.10:362][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.06.10-16.09.10:362][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.06.10-16.09.10:362][199]LogInit: FAudioDevice initialized with ID 24.
+[2023.06.10-16.09.10:362][199]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2023.06.10-16.09.10:362][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.06.10-16.09.10:365][199]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.10-16.09.10:372][199]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.10-17.09.10
+[2023.06.10-16.09.10:372][199]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.10-16.09.10:372][199]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.10-16.09.10:372][199]LogWorld: Bringing up level for play took: 0.007743
+[2023.06.10-16.09.10:375][199]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.06.10-16.09.10:377][199]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.09.10:377][199]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.09.10:381][199]PIE: Server logged in
+[2023.06.10-16.09.10:382][199]PIE: Play in editor total start time 0.161 seconds.
+[2023.06.10-16.09.10:383][199]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.10-16.09.10:384][199]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.10-16.09.10:409][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:410][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:410][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:410][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:411][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:411][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:412][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:412][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:412][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:413][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:413][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:414][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:414][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:415][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:416][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:416][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:418][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:418][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:419][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:419][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:420][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:420][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:421][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:421][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:422][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:423][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:423][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:424][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:424][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:425][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:425][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:426][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:426][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:430][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:439][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:440][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:440][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:440][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:441][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:441][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:442][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:442][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:442][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:443][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:443][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:443][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:444][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:444][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:444][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:445][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:445][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:445][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:446][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:446][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:446][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:447][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:447][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:447][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:448][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:448][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:448][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:449][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:450][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:450][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:451][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:451][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:451][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.10:455][200]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.13:796][399]LogHttp: Warning: 000007836F398C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.09.13:796][399]LogHttp: Warning: 000007836F398C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.09.13:796][399]LogHttp: Warning: 000007836F398C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.09.13:796][399]LogHttp: Warning: 000007836F398C00: libcurl info message cache 1 (Closing connection 34)
+[2023.06.10-16.09.13:796][399]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.09.26:771][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-16.09.26:771][175]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.10-16.09.26:771][175]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.10-16.09.26:772][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-16.09.26:772][175]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.10-16.09.26:776][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.10-16.09.26:781][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-16.09.26:804][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.10-16.09.26:804][175]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.06.10-16.09.26:804][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.06.10-16.09.26:806][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.06.10-16.09.26:811][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-16.09.26:814][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.10-16.09.26:994][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.27:098][176]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.06.10-16.09.27:160][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.09.29:767][327]LogSlate: Window 'Message Log' being destroyed
+[2023.06.10-16.09.29:775][327]LogSlate: Window 'Message Log' being destroyed
+[2023.06.10-16.10.13:765][853]LogHttp: Warning: 000007836A740A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.10-16.10.13:765][853]LogHttp: Warning: 000007836A740A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.10-16.10.13:765][853]LogHttp: Warning: 000007836A740A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.10-16.10.13:765][853]LogHttp: Warning: 000007836A740A00: libcurl info message cache 1 (Closing connection 35)
+[2023.06.10-16.10.13:765][853]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB94E3E89-41F1-F8D1-A29C-0BB9393A5E6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.0-25360045%2B%2B%2BUE5%2BRelease-5.2&UserID=b3fbdeba40e70ea7c7973fa945e0f2da%7Cc973c281e0724822b812acc241967df9%7C905bdbaf-c91f-42b9-899a-808b4a711ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.10-16.10.57:175][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.10.57:263][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.10-16.10.57:279][295]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2023.06.10-16.10.57:280][295]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_Enemy8FB2C19E4A23F809B3B0028682F9A6B7.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.10-16.10.57:290][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.08 sec)
+[2023.06.10-16.10.57:295][295]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.10-16.10.57:295][295]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.10-16.14.15:723][912]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.06.10-16.14.15:728][912]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.15:728][912]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.15:731][912]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.15:731][912]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.14.15:735][912]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.15:735][912]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:539][719]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.10-16.14.29:680][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.10-16.14.29:718][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:718][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:721][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:721][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:725][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:725][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:727][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:727][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.14.29:793][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:793][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:796][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:797][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.14.29:800][719]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.14.29:800][719]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.14.32:138][853]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.14.39:459][285]LogViewport: Scene viewport resized to 2110x910, mode Windowed.
+[2023.06.10-16.14.46:628][698]LogViewport: Scene viewport resized to 1527x910, mode Windowed.
+[2023.06.10-16.15.10:839][135]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.10-16.15.10:988][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.10-16.15.11:025][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:026][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.11:030][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:030][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.11:033][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:033][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.11:036][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:036][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.15.11:102][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:102][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.11:106][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:106][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.11:109][135]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.11:109][135]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.15.11:661][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.15.11:815][162]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.10-16.15.11:816][162]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacterE1F7C3F04C27956B014F88B0B843C045.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.10-16.15.11:825][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 2.24 sec)
+[2023.06.10-16.15.11:831][162]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.10-16.15.11:831][162]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.10-16.15.12:710][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.10-16.15.12:720][211]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.10-16.15.12:721][211]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.10-16.15.12:722][211]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.10-16.15.12:722][211]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.10-16.15.12:722][211]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 185 us)
+[2023.06.10-16.15.12:722][211]LogWorldPartition: Display: GenerateStreaming took 140 us (total: 3 ms)
+[2023.06.10-16.15.12:725][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.10-16.15.12:725][211]PIE: New page: PIE session: ThirdPersonMap (10 Jun 2023, 18:15:12)
+[2023.06.10-16.15.12:763][211]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.10-16.15.12:768][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005085s)
+[2023.06.10-16.15.12:768][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005161s)
+[2023.06.10-16.15.12:768][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.10-16.15.12:769][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.10-16.15.12:769][211]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.10-16.15.12:770][211]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.10-16.15.12:770][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.10-16.15.12:770][211]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.10-16.15.12:771][211]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.10-16.15.12:771][211]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.08 sec)
+[2023.06.10-16.15.12:771][211]LogPlayLevel: PIE: World Init took: (0.002589s)
+[2023.06.10-16.15.12:796][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.10-16.15.12:799][211]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.10-16.15.12:800][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.10-16.15.12:800][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.10-16.15.12:800][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.10-16.15.12:800][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.10-16.15.12:800][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.10-16.15.12:802][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.10-16.15.12:902][211]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.10-16.15.12:903][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.10-16.15.12:903][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.10-16.15.12:903][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.10-16.15.12:903][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.06.10-16.15.12:903][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.06.10-16.15.12:905][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.06.10-16.15.12:905][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.06.10-16.15.12:905][211]LogInit: FAudioDevice initialized with ID 25.
+[2023.06.10-16.15.12:905][211]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2023.06.10-16.15.12:905][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.06.10-16.15.12:909][211]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.10-16.15.12:916][211]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.10-17.15.12
+[2023.06.10-16.15.12:916][211]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.10-16.15.12:916][211]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.10-16.15.12:916][211]LogWorld: Bringing up level for play took: 0.007095
+[2023.06.10-16.15.12:919][211]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.06.10-16.15.12:920][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.12:920][211]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.15.12:924][211]PIE: Server logged in
+[2023.06.10-16.15.12:925][211]PIE: Play in editor total start time 0.205 seconds.
+[2023.06.10-16.15.12:926][211]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.10-16.15.12:926][211]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.10-16.15.12:946][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:946][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:947][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:947][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:948][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:948][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:948][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:949][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:949][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:949][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:950][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:950][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:951][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:951][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:951][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:952][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:952][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:952][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:953][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:953][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:953][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:953][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:955][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:956][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:956][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:957][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:957][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:957][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:958][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:958][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:959][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:959][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:959][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:963][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:972][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:973][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:973][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:973][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:974][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:974][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:974][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:976][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:976][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:976][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:977][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:977][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:978][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:978][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:978][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:979][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:979][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:979][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:980][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:980][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:980][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:981][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:981][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:981][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:982][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:982][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:983][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:983][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:983][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:984][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:984][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:985][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:985][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.12:988][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.25:564][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-16.15.25:564][962]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.10-16.15.25:565][962]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.10-16.15.25:565][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-16.15.25:565][962]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.10-16.15.25:568][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.10-16.15.25:572][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.10-16.15.25:597][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.10-16.15.25:597][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.06.10-16.15.25:597][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.06.10-16.15.25:599][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.06.10-16.15.25:604][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.10-16.15.25:607][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.10-16.15.25:769][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.25:888][963]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.06.10-16.15.25:945][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.15.27:310][ 40]LogSlate: Window 'Message Log' being destroyed
+[2023.06.10-16.15.27:319][ 40]LogSlate: Window 'Message Log' being destroyed
+[2023.06.10-16.15.39:384][754]BlueprintLog: New page: Compile BP_Enemy
+[2023.06.10-16.15.39:566][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.10-16.15.39:595][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:595][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.39:599][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:599][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.39:603][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:603][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.15.39:629][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:629][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.39:631][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:631][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.15.39:635][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.15.39:635][754]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.15.40:052][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.15.40:148][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.06.10-16.15.40:166][772]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2023.06.10-16.15.40:167][772]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_Enemy5B634791479947868AF4858A7DF49291.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_Enemy.uasset'
+[2023.06.10-16.15.40:179][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 2.37 sec)
+[2023.06.10-16.15.40:185][772]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.06.10-16.15.40:185][772]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.06.10-16.16.13:532][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.13:532][737]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.13:538][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.13:538][737]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.13:541][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.13:543][737]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.16.30:790][721]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.30:790][721]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.30:795][721]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.30:795][721]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.30:799][721]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.30:799][721]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.16.51:648][931]LogEditorTransaction: Undo Create Pin Link
+[2023.06.10-16.16.51:692][931]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.51:692][931]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.51:696][931]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.51:696][931]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.51:699][931]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.51:699][931]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.16.52:454][958]LogEditorTransaction: Undo Delete current selection
+[2023.06.10-16.16.52:497][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.52:497][958]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.52:501][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.52:501][958]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.16.52:505][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.16.52:505][958]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.12:231][ 99]LogEditorTransaction: Undo Change Class Pin Value
+[2023.06.10-16.17.12:275][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:275][ 99]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:278][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:278][ 99]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:282][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:282][ 99]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.12:492][100]LogEditorTransaction: Undo Create Pin Link
+[2023.06.10-16.17.12:534][100]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:534][100]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:538][100]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:538][100]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:541][100]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:541][100]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.12:742][102]LogEditorTransaction: Undo Move Node
+[2023.06.10-16.17.12:784][102]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:784][102]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:788][102]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:788][102]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.12:792][102]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.12:792][102]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.13:160][116]LogEditorTransaction: Undo Add Node
+[2023.06.10-16.17.13:168][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:168][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:172][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:172][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:175][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:175][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:179][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:179][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:221][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:221][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:225][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:225][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:229][116]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:229][116]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.13:642][133]LogEditorTransaction: Undo Create Pin Link
+[2023.06.10-16.17.13:681][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:681][133]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:686][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:686][133]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.13:689][133]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.13:689][133]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.14:082][149]LogEditorTransaction: Undo Move Node
+[2023.06.10-16.17.14:123][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:123][149]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.14:127][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:127][149]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.14:131][149]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:131][149]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.14:558][167]LogEditorTransaction: Undo Create Pin Link
+[2023.06.10-16.17.14:602][167]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:602][167]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.14:607][167]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:607][167]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.14:611][167]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.14:611][167]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.15:011][183]LogEditorTransaction: Undo Move Node
+[2023.06.10-16.17.15:051][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:051][183]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:055][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:055][183]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:061][183]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:061][183]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.15:506][202]LogEditorTransaction: Undo Add Node
+[2023.06.10-16.17.15:514][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:514][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:517][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:517][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:520][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:520][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:524][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:524][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:569][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:571][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:575][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:575][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.15:578][202]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.15:578][202]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.16:021][221]LogEditorTransaction: Undo Move Nodes
+[2023.06.10-16.17.16:064][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.16:065][221]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.16:069][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.16:069][221]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.16:073][221]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.16:073][221]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.21:312][515]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.21:312][515]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.21:316][515]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.21:316][515]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.21:319][515]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.21:319][515]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.45:267][934]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.45:267][934]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.45:416][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.45:416][943]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.45:421][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.45:421][943]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.45:425][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.45:425][943]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.46:590][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.46:590][ 13]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.46:595][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.46:595][ 13]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.46:599][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.46:599][ 13]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.17.46:612][ 13]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.10-16.17.52:849][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.52:849][387]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.52:855][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.52:855][387]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.17.52:859][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.17.52:860][387]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.18.43:598][423]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.10-16.18.43:791][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.10-16.18.43:822][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:822][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.18.43:825][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:825][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.18.43:829][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:829][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.18.43:831][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:831][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.18.43:901][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:901][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.18.43:905][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:905][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_12:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.10-16.18.43:908][423]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.10-16.18.43:908][423]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_9:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.10-16.18.44:450][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.10-16.18.44:604][450]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.10-16.18.44:605][450]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacterE3E767544D82AB504E03B1B5541127C3.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.10-16.18.44:614][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 2.53 sec)
+[2023.06.10-16.18.44:620][450]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.10-16.18.44:621][450]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.10-16.18.45:324][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.10-16.19.10:975][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.06.10-16.19.10:985][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/IN/R9EECLJ7OGWXSGC6H88VH9_Auto6
+[2023.06.10-16.19.10:985][650]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/R9EECLJ7OGWXSGC6H88VH9_Auto64039C7524C22E043360D359F5AD5B69A.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/IN/R9EECLJ7OGWXSGC6H88VH9_Auto6.uasset'
+[2023.06.10-16.19.10:992][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YZ/71NQEGLQD98RDLI6YGC403_Auto6
+[2023.06.10-16.19.10:992][650]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/71NQEGLQD98RDLI6YGC403_Auto601C5DBB94E9D5F489BF8E1B65156DD9B.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YZ/71NQEGLQD98RDLI6YGC403_Auto6.uasset'
+[2023.06.10-16.19.10:996][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2023.06.10-16.19.10:996][650]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
