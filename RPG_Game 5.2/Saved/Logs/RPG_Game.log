@@ -3019,3 +3019,1062 @@ Script Stack (0 frames) :
 [2023.06.11-16.45.55:300][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.06.11-16.45.55:367][776]LogViewport: Scene viewport resized to 1957x1177, mode Windowed.
 [2023.06.11-16.45.55:404][777]LogViewport: Scene viewport resized to 1957x1161, mode Windowed.
+[2023.06.11-16.49.26:555][493]LogDerivedDataCache: C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.085 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1058 folders with total size 58 MiB.
+[2023.06.11-16.51.19:715][107]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.20:241][138]LogViewport: Scene viewport resized to 1940x1161, mode Windowed.
+[2023.06.11-16.51.20:278][140]LogViewport: Scene viewport resized to 1846x1161, mode Windowed.
+[2023.06.11-16.51.20:329][142]LogViewport: Scene viewport resized to 1750x1161, mode Windowed.
+[2023.06.11-16.51.27:186][548]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.06.11-16.51.27:186][548]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.06.11-16.51.28:487][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.11-16.51.28:487][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.51.28:487][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.51.28:574][617]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.28:574][617]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.36:480][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.36:480][ 80]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.36:483][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.36:483][ 80]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.36:487][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.36:487][ 80]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.37:199][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.51.37:358][122]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.11-16.51.37:359][122]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacter7A87923D4E792F83167D77888E1F5B2A.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.11-16.51.37:369][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 3.16 sec)
+[2023.06.11-16.51.37:375][122]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.11-16.51.37:375][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.11-16.51.38:152][169]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.11-16.51.38:282][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.11-16.51.38:291][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:291][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.38:295][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:295][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.38:299][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:299][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.38:302][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:302][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.38:341][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:341][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.38:345][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:345][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.51.38:348][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.38:348][169]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.38:715][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.51.38:884][185]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.11-16.51.38:885][185]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacter42A6F99549C4E50ACF42689D7DF0F8EF.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.11-16.51.38:894][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 3.34 sec)
+[2023.06.11-16.51.38:900][185]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.11-16.51.38:900][185]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.11-16.51.39:804][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.51.39:813][237]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.51.39:814][237]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.51.39:815][237]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.51.39:815][237]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.51.39:815][237]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 88 us)
+[2023.06.11-16.51.39:815][237]LogWorldPartition: Display: GenerateStreaming took 142 us (total: 1 ms)
+[2023.06.11-16.51.39:817][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.51.39:817][237]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:51:39)
+[2023.06.11-16.51.39:817][237]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.51.39:823][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004779s)
+[2023.06.11-16.51.39:823][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004814s)
+[2023.06.11-16.51.39:823][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.51.39:823][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.51.39:823][237]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.51.39:824][237]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.51.39:824][237]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.51.39:824][237]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.51.39:825][237]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.51.39:825][237]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 860 ms)
+[2023.06.11-16.51.39:825][237]LogPlayLevel: PIE: World Init took: (0.002058s)
+[2023.06.11-16.51.39:848][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.11-16.51.39:851][237]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.51.39:851][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.51.39:851][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.51.39:852][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.51.39:852][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.51.39:852][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.51.39:853][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.51.39:964][237]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.51.39:964][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.51.39:964][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.51.39:964][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.51.39:965][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.06.11-16.51.39:965][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.06.11-16.51.39:967][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.06.11-16.51.39:967][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.06.11-16.51.39:967][237]LogInit: FAudioDevice initialized with ID 12.
+[2023.06.11-16.51.39:967][237]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.51.39:967][237]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.06.11-16.51.39:969][237]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.51.39:976][237]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.51.39
+[2023.06.11-16.51.39:976][237]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.51.39:976][237]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.51.39:976][237]LogWorld: Bringing up level for play took: 0.006892
+[2023.06.11-16.51.39:979][237]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.06.11-16.51.39:981][237]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.51.39:981][237]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.51.39:985][237]PIE: Server logged in
+[2023.06.11-16.51.39:986][237]PIE: Play in editor total start time 0.172 seconds.
+[2023.06.11-16.51.39:987][237]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.51.39:987][237]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.51.40:009][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:010][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:010][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:010][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:011][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:011][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:011][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:012][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:012][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:012][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:012][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:013][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:013][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:013][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:014][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:014][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:014][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:015][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:015][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:015][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:016][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:016][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:016][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:017][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:017][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:018][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:018][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:019][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:019][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:020][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:020][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:020][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:024][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:024][237]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:039][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:040][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:040][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:040][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:041][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:041][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:041][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:042][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:042][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:042][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:042][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:044][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:044][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:044][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:045][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:045][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:045][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:046][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:046][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:047][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:047][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:047][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:048][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:048][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:048][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:049][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:049][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:049][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:050][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:050][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:051][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:051][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:054][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.40:055][238]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.43:661][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.51.43:661][451]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.51.43:662][451]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.51.43:662][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.51.43:662][451]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.51.43:665][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.51.43:669][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.51.43:689][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-16.51.43:690][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.06.11-16.51.43:690][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.06.11-16.51.43:693][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.06.11-16.51.43:697][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.51.43:701][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.06.11-16.51.43:879][451]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.43:963][452]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.06.11-16.51.44:013][452]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.51.45:210][519]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.51.45:220][519]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.52.03:265][598]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2023.06.11-16.52.03:265][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.52.03:265][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.52.03:273][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.52.03:273][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.52.18:073][467]LogSlate: Window 'WBP_HUD' being destroyed
+[2023.06.11-16.52.18:088][467]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.52.18:088][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.52.18:098][467]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.52.18:098][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.52.21:178][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.52.22:654][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-16.52.22:654][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.52.22:654][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.54.10:702][115]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.11-16.54.10:792][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.11-16.54.10:803][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:803][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.10:807][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:807][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.10:809][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:809][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.10:818][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:818][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.10:821][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:821][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.10:824][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.10:824][115]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.11:273][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.54.11:374][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.11-16.54.11:407][141]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.11-16.54.11:408][141]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsF38A33584BEB6FF68B1D6C9B9991FA76.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.11-16.54.11:417][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.48 sec)
+[2023.06.11-16.54.11:423][141]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.11-16.54.11:423][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-16.54.12:460][201]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.54.12:469][201]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.54.12:470][201]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.54.12:471][201]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.54.12:471][201]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.54.12:471][201]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 95 us)
+[2023.06.11-16.54.12:471][201]LogWorldPartition: Display: GenerateStreaming took 139 us (total: 2 ms)
+[2023.06.11-16.54.12:474][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.54.12:474][201]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:54:12)
+[2023.06.11-16.54.12:474][201]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.12:479][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004529s)
+[2023.06.11-16.54.12:479][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004559s)
+[2023.06.11-16.54.12:479][201]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.54.12:479][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.54.12:479][201]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.54.12:480][201]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.54.12:480][201]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.54.12:480][201]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.54.12:481][201]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.54.12:481][201]LogWorldPartition: Display: WorldPartition initialize took 995 us (total: 861 ms)
+[2023.06.11-16.54.12:481][201]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2023.06.11-16.54.12:502][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.11-16.54.12:505][201]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.54.12:505][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.54.12:505][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.54.12:505][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.54.12:505][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.54.12:505][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.54.12:509][201]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.54.12:616][201]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.54.12:617][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.54.12:617][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.54.12:617][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.54.12:618][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.06.11-16.54.12:618][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.06.11-16.54.12:620][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.06.11-16.54.12:620][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.06.11-16.54.12:620][201]LogInit: FAudioDevice initialized with ID 13.
+[2023.06.11-16.54.12:620][201]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.54.12:620][201]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.06.11-16.54.12:627][201]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.54.12:635][201]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.54.12
+[2023.06.11-16.54.12:636][201]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.12:636][201]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.12:636][201]LogWorld: Bringing up level for play took: 0.009594
+[2023.06.11-16.54.12:638][201]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.06.11-16.54.12:640][201]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.12:640][201]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.12:644][201]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00C4
+[2023.06.11-16.54.12:644][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.54.12:644][201]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00D9
+[2023.06.11-16.54.12:644][201]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.54.12:644][201]PIE: Server logged in
+[2023.06.11-16.54.12:645][201]PIE: Play in editor total start time 0.176 seconds.
+[2023.06.11-16.54.12:647][201]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.12:647][201]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.12:665][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:666][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:666][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:666][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:667][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:667][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:667][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:668][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:668][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:668][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:669][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:669][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:669][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:670][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:670][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:670][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:671][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:671][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:671][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:672][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:672][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:672][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:673][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:673][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:673][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:674][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:674][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:675][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:675][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:676][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:676][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:676][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:679][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:680][201]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:689][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:689][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:689][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:690][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:690][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:691][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:691][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:691][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:692][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:692][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:692][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:693][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:693][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:693][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:694][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:694][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:694][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:695][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:695][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:695][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:696][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:696][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:696][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:697][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:697][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:697][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:697][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:699][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:699][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:699][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:700][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:700][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:703][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.12:703][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.15:718][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.15:718][378]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.15:718][378]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.54.15:719][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.15:719][378]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.54.15:722][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.54.15:726][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.15:747][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-16.54.15:748][378]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.06.11-16.54.15:748][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.06.11-16.54.15:750][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.06.11-16.54.15:755][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.15:759][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.11-16.54.15:915][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.16:004][379]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.06.11-16.54.16:055][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.54.17:502][460]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.54.17:509][460]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.54.33:529][416]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.54.33:537][416]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.54.33:537][416]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.54.33:539][416]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.54.33:539][416]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.54.33:539][416]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 100 us)
+[2023.06.11-16.54.33:539][416]LogWorldPartition: Display: GenerateStreaming took 144 us (total: 2 ms)
+[2023.06.11-16.54.33:541][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.54.33:541][416]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:54:33)
+[2023.06.11-16.54.33:541][416]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.33:546][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004368s)
+[2023.06.11-16.54.33:546][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004397s)
+[2023.06.11-16.54.33:546][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.54.33:546][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.54.33:546][416]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.54.33:547][416]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.54.33:547][416]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.54.33:547][416]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.54.33:548][416]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.54.33:548][416]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 862 ms)
+[2023.06.11-16.54.33:548][416]LogPlayLevel: PIE: World Init took: (0.002008s)
+[2023.06.11-16.54.33:568][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.11-16.54.33:570][416]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.54.33:570][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.54.33:570][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.54.33:571][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.54.33:571][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.54.33:571][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.54.33:573][416]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.54.33:680][416]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.54.33:681][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.54.33:681][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.54.33:681][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.54.33:682][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.06.11-16.54.33:682][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.06.11-16.54.33:683][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.06.11-16.54.33:683][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.06.11-16.54.33:683][416]LogInit: FAudioDevice initialized with ID 14.
+[2023.06.11-16.54.33:683][416]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.54.33:684][416]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.06.11-16.54.33:762][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.33:763][416]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.54.33:770][416]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.54.33
+[2023.06.11-16.54.33:771][416]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.33:771][416]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.33:771][416]LogWorld: Bringing up level for play took: 0.008764
+[2023.06.11-16.54.33:773][416]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.06.11-16.54.33:776][416]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.33:776][416]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.33:780][416]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00C4
+[2023.06.11-16.54.33:780][416]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.54.33:780][416]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00D9
+[2023.06.11-16.54.33:780][416]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.54.33:782][416]PIE: Server logged in
+[2023.06.11-16.54.33:784][416]PIE: Play in editor total start time 0.246 seconds.
+[2023.06.11-16.54.33:785][416]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.33:785][416]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.33:795][416]LogViewport: Scene viewport resized to 1301x860, mode Windowed.
+[2023.06.11-16.54.34:845][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.34:845][467]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.34:845][467]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.11-16.54.34:852][467]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.54.34:852][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.34:852][467]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.54.34:855][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.54.34:860][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.34:883][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.06.11-16.54.34:883][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.06.11-16.54.34:886][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.06.11-16.54.34:894][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.06.11-16.54.35:118][468]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.06.11-16.54.39:588][730]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.54.39:597][730]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.54.44:063][998]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.11-16.54.44:149][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.11-16.54.44:158][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:158][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.44:161][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:161][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.44:165][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:165][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.44:172][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:172][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.44:175][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:175][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.44:180][998]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.44:180][998]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.54.44:637][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.54.44:723][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.11-16.54.44:748][ 22]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.11-16.54.44:749][ 22]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats2E483266422ECB8C7FE0F0B6F843CF77.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.11-16.54.44:761][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.60 sec)
+[2023.06.11-16.54.44:766][ 22]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.11-16.54.44:766][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-16.54.45:440][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.54.45:449][ 63]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.54.45:450][ 63]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.54.45:451][ 63]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.54.45:451][ 63]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.54.45:451][ 63]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 107 us)
+[2023.06.11-16.54.45:451][ 63]LogWorldPartition: Display: GenerateStreaming took 151 us (total: 2 ms)
+[2023.06.11-16.54.45:454][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.54.45:454][ 63]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:54:45)
+[2023.06.11-16.54.45:454][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.45:458][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004408s)
+[2023.06.11-16.54.45:458][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004438s)
+[2023.06.11-16.54.45:458][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.54.45:458][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.54.45:458][ 63]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.54.45:458][ 63]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.54.45:459][ 63]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.54.45:459][ 63]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.54.45:459][ 63]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.54.45:459][ 63]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 863 ms)
+[2023.06.11-16.54.45:460][ 63]LogPlayLevel: PIE: World Init took: (0.001916s)
+[2023.06.11-16.54.45:480][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.06.11-16.54.45:483][ 63]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.54.45:483][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.54.45:483][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.54.45:484][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.54.45:484][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.54.45:484][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.54.45:486][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.54.45:585][ 63]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.54.45:586][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.54.45:586][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.54.45:586][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.54.45:586][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.06.11-16.54.45:586][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.06.11-16.54.45:588][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.06.11-16.54.45:588][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.06.11-16.54.45:588][ 63]LogInit: FAudioDevice initialized with ID 15.
+[2023.06.11-16.54.45:588][ 63]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.54.45:588][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.06.11-16.54.45:656][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.45:656][ 63]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.54.45:664][ 63]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.54.45
+[2023.06.11-16.54.45:665][ 63]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.45:665][ 63]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.54.45:665][ 63]LogWorld: Bringing up level for play took: 0.008229
+[2023.06.11-16.54.45:667][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.06.11-16.54.45:669][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.54.45:669][ 63]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.54.45:674][ 63]PIE: Server logged in
+[2023.06.11-16.54.45:674][ 63]PIE: Play in editor total start time 0.225 seconds.
+[2023.06.11-16.54.45:675][ 63]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.45:675][ 63]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.54.45:683][ 63]LogViewport: Scene viewport resized to 1304x880, mode Windowed.
+[2023.06.11-16.54.46:727][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.54.46:727][114]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.54.46:728][114]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.11-16.54.46:730][114]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.54.46:732][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.46:732][114]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.54.46:734][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.54.46:738][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.54.46:762][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-16.54.46:762][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.06.11-16.54.46:763][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.06.11-16.54.46:764][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.06.11-16.54.46:774][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.11-16.54.46:986][115]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.06.11-16.54.48:047][171]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.54.48:055][171]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.56.33:281][702]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.11-16.56.33:338][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.06.11-16.56.33:351][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:352][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.56.33:354][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:354][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.56.33:358][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:358][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.56.33:367][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:367][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.56.33:370][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:370][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.56.33:374][702]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.33:374][702]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.56.33:809][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.56.33:918][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.11-16.56.33:944][727]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.11-16.56.33:945][727]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats8BAEFE694BC1C6E9589F36A8A87F4584.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.11-16.56.33:954][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.75 sec)
+[2023.06.11-16.56.33:959][727]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.11-16.56.33:959][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-16.56.34:586][765]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.56.34:594][765]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.56.34:594][765]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.56.34:595][765]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.56.34:595][765]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.56.34:595][765]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 113 us)
+[2023.06.11-16.56.34:595][765]LogWorldPartition: Display: GenerateStreaming took 150 us (total: 2 ms)
+[2023.06.11-16.56.34:598][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.56.34:598][765]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:56:34)
+[2023.06.11-16.56.34:598][765]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.56.34:603][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004562s)
+[2023.06.11-16.56.34:603][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004595s)
+[2023.06.11-16.56.34:603][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.56.34:603][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.56.34:604][765]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.56.34:604][765]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.56.34:604][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.56.34:604][765]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.56.34:605][765]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.56.34:605][765]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 864 ms)
+[2023.06.11-16.56.34:605][765]LogPlayLevel: PIE: World Init took: (0.001958s)
+[2023.06.11-16.56.34:625][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.11-16.56.34:629][765]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.56.34:629][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.56.34:629][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.56.34:630][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.56.34:630][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.56.34:630][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.56.34:632][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.56.34:741][765]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.56.34:741][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.56.34:741][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.56.34:741][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.56.34:742][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.06.11-16.56.34:742][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.06.11-16.56.34:744][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.06.11-16.56.34:744][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.06.11-16.56.34:744][765]LogInit: FAudioDevice initialized with ID 16.
+[2023.06.11-16.56.34:744][765]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.56.34:744][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.06.11-16.56.34:815][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.56.34:815][765]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.56.34:823][765]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.56.34
+[2023.06.11-16.56.34:823][765]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.56.34:824][765]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.56.34:824][765]LogWorld: Bringing up level for play took: 0.008514
+[2023.06.11-16.56.34:828][765]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.06.11-16.56.34:830][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.56.34:830][765]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.56.34:834][765]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00F4
+[2023.06.11-16.56.34:834][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.56.34:834][765]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:0109
+[2023.06.11-16.56.34:834][765]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.56.34:837][765]PIE: Server logged in
+[2023.06.11-16.56.34:838][765]PIE: Play in editor total start time 0.243 seconds.
+[2023.06.11-16.56.34:839][765]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.56.34:839][765]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.56.34:847][765]LogViewport: Scene viewport resized to 1307x900, mode Windowed.
+[2023.06.11-16.56.37:930][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.56.37:930][939]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.56.37:931][939]LogSlate: Window 'RPG_Game Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.11-16.56.37:936][939]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.56.37:936][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.56.37:937][939]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.56.37:939][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.56.37:944][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.56.37:967][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-16.56.37:968][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.06.11-16.56.37:968][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.06.11-16.56.37:970][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.06.11-16.56.37:978][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.06.11-16.56.38:193][940]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.06.11-16.56.45:247][350]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.56.45:253][350]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.59.27:484][ 73]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.11-16.59.27:544][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.11-16.59.27:558][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:558][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.27:562][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:562][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.27:565][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:565][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.27:573][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:573][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.27:577][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:577][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.27:580][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.27:580][ 73]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.27:902][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.59.28:000][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.11-16.59.28:030][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.11-16.59.28:030][ 91]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStatsFF9956D64CBFE687BCEFE6B3F0113E3C.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.11-16.59.28:039][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 3.89 sec)
+[2023.06.11-16.59.28:045][ 91]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.11-16.59.28:045][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-16.59.29:342][168]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:184][212]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-16.59.30:196][212]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-16.59.30:196][212]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-16.59.30:197][212]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-16.59.30:197][212]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-16.59.30:197][212]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 120 us)
+[2023.06.11-16.59.30:197][212]LogWorldPartition: Display: GenerateStreaming took 150 us (total: 2 ms)
+[2023.06.11-16.59.30:200][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-16.59.30:200][212]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 18:59:30)
+[2023.06.11-16.59.30:221][212]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.59.30:227][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004848s)
+[2023.06.11-16.59.30:227][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004899s)
+[2023.06.11-16.59.30:227][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-16.59.30:227][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-16.59.30:228][212]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-16.59.30:228][212]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-16.59.30:228][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-16.59.30:228][212]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-16.59.30:229][212]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-16.59.30:229][212]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 865 ms)
+[2023.06.11-16.59.30:229][212]LogPlayLevel: PIE: World Init took: (0.002121s)
+[2023.06.11-16.59.30:252][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.06.11-16.59.30:257][212]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-16.59.30:257][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-16.59.30:257][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-16.59.30:258][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-16.59.30:258][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-16.59.30:258][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-16.59.30:260][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-16.59.30:362][212]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-16.59.30:362][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-16.59.30:362][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-16.59.30:362][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-16.59.30:363][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.06.11-16.59.30:363][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.06.11-16.59.30:365][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.06.11-16.59.30:365][212]LogInit: FAudioDevice initialized with ID 17.
+[2023.06.11-16.59.30:365][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.06.11-16.59.30:365][212]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2023.06.11-16.59.30:365][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.06.11-16.59.30:368][212]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-16.59.30:376][212]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-17.59.30
+[2023.06.11-16.59.30:376][212]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.59.30:376][212]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-16.59.30:376][212]LogWorld: Bringing up level for play took: 0.008543
+[2023.06.11-16.59.30:379][212]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.06.11-16.59.30:380][212]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.30:381][212]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.30:384][212]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00F4
+[2023.06.11-16.59.30:384][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.59.30:384][212]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:0109
+[2023.06.11-16.59.30:384][212]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.59.30:384][212]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:0196
+[2023.06.11-16.59.30:384][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.59.30:384][212]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:01AB
+[2023.06.11-16.59.30:384][212]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-16.59.30:384][212]PIE: Server logged in
+[2023.06.11-16.59.30:385][212]PIE: Play in editor total start time 0.19 seconds.
+[2023.06.11-16.59.30:387][212]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.59.30:387][212]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-16.59.30:405][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:405][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:406][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:406][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:406][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:407][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:407][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:407][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:408][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:408][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:408][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:409][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:409][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:409][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:410][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:410][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:411][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:411][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:411][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:412][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:412][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:412][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:413][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:413][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:413][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:414][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:414][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:415][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:415][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:416][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:416][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:416][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:419][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:420][212]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:429][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:429][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:430][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:430][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:431][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:431][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:431][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:432][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:432][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:432][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:433][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:433][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:433][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:433][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:433][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:434][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:434][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:434][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:435][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:435][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:436][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:436][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:436][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:437][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:437][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:437][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:438][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:438][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:439][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:439][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:439][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:440][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:443][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.30:443][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.34:937][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.59.34:937][478]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-16.59.34:938][478]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-16.59.34:938][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.59.34:938][478]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-16.59.34:941][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-16.59.34:946][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-16.59.34:967][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-16.59.34:967][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.06.11-16.59.34:967][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.06.11-16.59.34:969][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.06.11-16.59.34:974][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-16.59.34:978][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.11-16.59.35:160][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.35:243][479]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.06.11-16.59.35:290][479]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-16.59.36:838][567]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.59.36:845][567]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-16.59.55:183][659]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.55:183][659]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.55:186][659]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.55:186][659]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.55:190][659]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.55:190][659]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:447][734]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.11-16.59.56:581][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.11-16.59.56:590][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:590][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:594][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:594][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:599][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:599][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:602][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:602][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.56:640][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:641][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:644][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:644][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-16.59.56:647][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-16.59.56:647][734]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-16.59.56:855][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-16.59.57:028][740]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.11-16.59.57:029][740]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacterA4232F9443D67DF189B2ADA0DEE2544C.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.11-16.59.57:040][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 4.07 sec)
+[2023.06.11-16.59.57:046][740]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.11-16.59.57:046][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.11-17.00.41:382][382]BlueprintLog: New page: Compile BP_PlayerStats
+[2023.06.11-17.00.41:474][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.11-17.00.41:483][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:483][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-17.00.41:487][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:487][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-17.00.41:491][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:491][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-17.00.41:498][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:498][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-17.00.41:501][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:501][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_6.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-17.00.41:505][382]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.41:505][382]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_1
+[2023.06.11-17.00.41:734][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-17.00.41:817][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerStats" FILE="../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset" SILENT=true
+[2023.06.11-17.00.41:844][394]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerStats
+[2023.06.11-17.00.41:845][394]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_PlayerStats257A10634699DDC4E120E19F66C24403.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/Blueprints/BP_PlayerStats.uasset'
+[2023.06.11-17.00.41:856][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 4.19 sec)
+[2023.06.11-17.00.41:862][394]AssetCheck: New page: Asset Save: BP_PlayerStats
+[2023.06.11-17.00.41:862][394]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerStats.BP_PlayerStats
+[2023.06.11-17.00.42:931][455]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.11-17.00.42:940][455]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.06.11-17.00.42:941][455]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2023.06.11-17.00.42:942][455]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.11-17.00.42:942][455]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.11-17.00.42:942][455]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 126 us)
+[2023.06.11-17.00.42:942][455]LogWorldPartition: Display: GenerateStreaming took 159 us (total: 2 ms)
+[2023.06.11-17.00.42:945][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.11-17.00.42:945][455]PIE: New page: PIE session: ThirdPersonMap (11 Jun 2023, 19:00:42)
+[2023.06.11-17.00.42:982][455]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-17.00.42:986][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004782s)
+[2023.06.11-17.00.42:986][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004827s)
+[2023.06.11-17.00.42:986][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.11-17.00.42:987][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.11-17.00.42:987][455]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.11-17.00.42:987][455]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.06.11-17.00.42:987][455]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.11-17.00.42:987][455]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.11-17.00.42:988][455]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.06.11-17.00.42:988][455]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 866 ms)
+[2023.06.11-17.00.42:988][455]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2023.06.11-17.00.43:009][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.11-17.00.43:012][455]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.11-17.00.43:012][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.11-17.00.43:012][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.11-17.00.43:013][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.11-17.00.43:013][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.11-17.00.43:013][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.11-17.00.43:015][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.11-17.00.43:115][455]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.06.11-17.00.43:116][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.11-17.00.43:116][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.11-17.00.43:116][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.11-17.00.43:116][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.06.11-17.00.43:116][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.06.11-17.00.43:118][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.06.11-17.00.43:118][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.06.11-17.00.43:118][455]LogInit: FAudioDevice initialized with ID 18.
+[2023.06.11-17.00.43:118][455]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2023.06.11-17.00.43:118][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.06.11-17.00.43:122][455]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.11-17.00.43:127][455]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.06.11-18.00.43
+[2023.06.11-17.00.43:129][455]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-17.00.43:129][455]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2023.06.11-17.00.43:129][455]LogWorld: Bringing up level for play took: 0.007258
+[2023.06.11-17.00.43:131][455]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.06.11-17.00.43:133][455]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.06.11-17.00.43:133][455]LogScript: Warning: Script Msg called by: ABP_MainCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_MainCharacter_C_0
+[2023.06.11-17.00.43:137][455]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:00F4
+[2023.06.11-17.00.43:137][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-17.00.43:137][455]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:0109
+[2023.06.11-17.00.43:137][455]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-17.00.43:137][455]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:0196
+[2023.06.11-17.00.43:137][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-17.00.43:137][455]LogScript: Warning: Accessed None
+	BP_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BP_PlayerStats
+	Function /Game/Blueprints/BP_PlayerStats.BP_PlayerStats_C:ExecuteUbergraph_BP_PlayerStats:01AB
+[2023.06.11-17.00.43:137][455]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BP Player Stats Blueprint:  BP_PlayerStats
+[2023.06.11-17.00.43:137][455]PIE: Server logged in
+[2023.06.11-17.00.43:138][455]PIE: Play in editor total start time 0.197 seconds.
+[2023.06.11-17.00.43:140][455]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1691040594 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-17.00.43:140][455]PIE: Warning: Mobility of /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_489EBD30B447FE8A01_1694059595 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2023.06.11-17.00.43:158][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:159][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:159][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:159][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:160][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:160][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:160][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:161][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:161][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:161][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:162][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:162][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:162][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:162][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:163][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:163][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:163][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:164][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:164][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:164][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:165][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:165][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:165][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:166][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:166][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:166][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:167][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:168][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:168][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:169][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:169][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:170][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:172][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:173][455]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:182][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:183][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:183][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:183][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:183][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:184][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:184][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:184][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:185][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:185][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:185][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:186][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:186][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:187][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:187][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:187][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:187][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:188][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:188][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:189][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:189][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:189][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:190][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:190][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:191][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:191][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:192][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:192][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:192][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:194][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:194][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:195][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:198][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.43:199][456]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.45:659][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-17.00.45:659][600]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.11-17.00.45:659][600]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.11-17.00.45:660][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-17.00.45:660][600]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.11-17.00.45:663][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.11-17.00.45:667][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.11-17.00.45:689][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.11-17.00.45:689][600]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.06.11-17.00.45:689][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.11-17.00.45:691][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.11-17.00.45:695][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.11-17.00.45:699][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.06.11-17.00.45:874][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.00.45:942][601]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.06.11-17.00.45:980][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.11-17.01.04:009][676]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-17.01.04:016][676]LogSlate: Window 'Message Log' being destroyed
+[2023.06.11-17.01.29:549][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.11-17.01.29:725][198]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.11-17.01.29:726][198]LogSavePackage: Moving '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Saved/BP_ThirdPersonCharacter2D96CF924A2B75964C807A844D9BAEB2.tmp' to '../../../../../../Users/chris/Unreal/RPG/RPG_Game 5.2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.11-17.01.29:737][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 4.38 sec)
+[2023.06.11-17.01.29:744][198]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.11-17.01.29:744][198]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
